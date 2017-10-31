@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Registration2ViewController">
+            <connections>
+                <outlet property="containerView" destination="Vzb-Od-HNi" id="rSe-zT-pbO"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg35.png" translatesAutoresizingMaskIntoConstraints="NO" id="RGM-IE-ji2">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="568"/>
+                    <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Who are you ? " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rwe-Nk-LF7">
+                    <rect key="frame" x="30" y="25" width="354" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="VYp-et-6CZ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="21"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="979-Cj-xrd">
+                    <rect key="frame" x="20" y="15" width="50" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="0Sq-dg-TKn"/>
+                        <constraint firstAttribute="height" constant="50" id="t4K-hI-QM0"/>
+                    </constraints>
+                    <state key="normal" title="Skip">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="Skip:" destination="-1" eventType="touchUpInside" id="JEK-eY-wCm"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="grI-Ub-Klm">
+                    <rect key="frame" x="344" y="15" width="50" height="50"/>
+                    <state key="normal" title="Done">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="Done:" destination="-1" eventType="touchUpInside" id="5Ep-0A-Fdf"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vzb-Od-HNi">
+                    <rect key="frame" x="0.0" y="55" width="414" height="513"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="RGM-IE-ji2" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="25F-zY-JNm"/>
+                <constraint firstAttribute="trailing" secondItem="rwe-Nk-LF7" secondAttribute="trailing" constant="30" id="DGf-gP-aM3"/>
+                <constraint firstAttribute="bottom" secondItem="Vzb-Od-HNi" secondAttribute="bottom" id="FS0-ol-Eky"/>
+                <constraint firstItem="grI-Ub-Klm" firstAttribute="width" secondItem="979-Cj-xrd" secondAttribute="width" id="FzJ-Eq-TjI"/>
+                <constraint firstItem="grI-Ub-Klm" firstAttribute="centerY" secondItem="979-Cj-xrd" secondAttribute="centerY" id="Jcm-mW-RKf"/>
+                <constraint firstItem="RGM-IE-ji2" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="Px5-p1-PVX"/>
+                <constraint firstItem="rwe-Nk-LF7" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="25" id="Rge-aL-C1m"/>
+                <constraint firstItem="979-Cj-xrd" firstAttribute="centerY" secondItem="rwe-Nk-LF7" secondAttribute="centerY" id="Rvs-eq-0ir"/>
+                <constraint firstAttribute="trailing" secondItem="RGM-IE-ji2" secondAttribute="trailing" id="Xn6-f2-6Hy"/>
+                <constraint firstItem="Vzb-Od-HNi" firstAttribute="top" secondItem="rwe-Nk-LF7" secondAttribute="bottom" id="bzu-iV-Kkc"/>
+                <constraint firstItem="rwe-Nk-LF7" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="30" id="cQt-xf-3YS"/>
+                <constraint firstAttribute="right" secondItem="grI-Ub-Klm" secondAttribute="right" constant="20" id="iFe-Ih-o9U"/>
+                <constraint firstItem="grI-Ub-Klm" firstAttribute="height" secondItem="979-Cj-xrd" secondAttribute="height" id="o59-D7-2dp"/>
+                <constraint firstAttribute="bottom" secondItem="RGM-IE-ji2" secondAttribute="bottom" id="qnR-WC-MI9"/>
+                <constraint firstItem="979-Cj-xrd" firstAttribute="left" secondItem="i5M-Pr-FkT" secondAttribute="left" constant="20" id="u7Q-Mh-KEQ"/>
+                <constraint firstAttribute="trailing" secondItem="Vzb-Od-HNi" secondAttribute="trailing" id="xCa-ey-ho6"/>
+                <constraint firstItem="Vzb-Od-HNi" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="zBD-aV-YVw"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg35.png" width="767" height="1027"/>
+    </resources>
+</document>

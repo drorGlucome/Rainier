@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 4.3">
+    <entity name="Alert" representedClassName="Alert" syncable="YES">
+        <attribute name="contactDetails" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="didUploadToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="how_mediaTypeID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_deleted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="params" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="relationship" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="when_alertTypeID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="AlertType" representedClassName="AlertType" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_on_by_default" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="order" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="when_array" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Fact" representedClassName="Fact" syncable="YES">
+        <attribute name="data" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="Friend" representedClassName="Friend" syncable="YES">
+        <attribute name="didFriendAddedMe" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="didUploadToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="friendId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="isFiltered" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="recordId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="score" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="Measurement" representedClassName="Measurement" syncable="YES">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="didUploadToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="patient_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="record_id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="source" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tags" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="value" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="MediaType" representedClassName="MediaType" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Tag" representedClassName="Tag" syncable="YES">
+        <attribute name="deletable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="didUploadToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Treatment" representedClassName="Treatment" syncable="YES">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateGiven" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="daypart" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="doctorId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="dosage" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="reason" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="summary" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="treatmentTypeId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="treatmentTypeName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TreatmentDiary" representedClassName="TreatmentDiary" syncable="YES">
+        <attribute name="didUploadToServer" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="dosage" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="dueDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="executionDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="isDueDateEstimated" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="markedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="recordId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="treatmentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="treatmentTypeId" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Alert" positionX="-18" positionY="54" width="128" height="180"/>
+        <element name="AlertType" positionX="0" positionY="81" width="128" height="120"/>
+        <element name="Fact" positionX="-36" positionY="45" width="128" height="75"/>
+        <element name="Friend" positionX="-18" positionY="54" width="128" height="180"/>
+        <element name="Measurement" positionX="-63" positionY="-18" width="128" height="195"/>
+        <element name="MediaType" positionX="18" positionY="90" width="128" height="75"/>
+        <element name="Tag" positionX="-54" positionY="18" width="128" height="120"/>
+        <element name="Treatment" positionX="-18" positionY="90" width="128" height="180"/>
+        <element name="TreatmentDiary" positionX="-18" positionY="108" width="128" height="210"/>
+    </elements>
+</model>

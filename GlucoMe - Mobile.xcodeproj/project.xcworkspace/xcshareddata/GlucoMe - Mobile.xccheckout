@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA42CFE1-D4D3-405B-B639-F422742E51A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GlucoMe - Mobile</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1</key>
+		<string>https://github.com/yiftahbenaharon/GlucoMeMobileStandalone.git</string>
+		<key>BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB</key>
+		<string>https://github.com/yiftahbenaharon/GlucoMeSDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GlucoMe - Mobile.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1</key>
+		<string>../..</string>
+		<key>BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB</key>
+		<string>../../../GlucomeSDK</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yiftahbenaharon/GlucoMeMobileStandalone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GlucoMeMobileStandalone</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GlucomeSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1259 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Thu, 22 Jun 2017 10:11:25 +0100
+ */
+
+/*  */
+"app_name" = "GlucoMe";
+
+/*  */
+"title_activity_results_inner_page" = "Result";
+
+/*  */
+"title_section1" = "Measure";
+
+/*  */
+"title_section2" = "Results";
+
+/*  */
+"title_section3" = "Profile";
+
+/*  */
+"Date" = "Date";
+
+/*  */
+"Glucose" = "Glucose";
+
+/*  */
+"Tags" = "Tags";
+
+/*  */
+"History" = "History";
+
+/*  */
+"Estimated_HbA1c" = "Estimated HbA1c";
+
+/*  */
+"Trends" = "Trends";
+
+/*  */
+"Distribution" = "Distribution";
+
+/*  */
+"Select_none" = "Select none";
+
+/*  */
+"Select_all" = "Select All";
+
+/*  */
+"No_tags" = "No tags";
+
+/*  */
+"Name" = "Name";
+
+/*  */
+"Type" = "Type";
+
+/*  */
+"One_time" = "One time";
+
+/*  */
+"Reminders" = "Reminders";
+
+/*  */
+"Glucose_reminder_title" = "Glucose reminder";
+
+/*  */
+"Boxes" = "Boxes";
+
+/*  */
+"Not_available_right_now" = "Not available right now..";
+
+/*  */
+"Order_strips" = "Order strips";
+
+/*  */
+"Please_enter_updated_strips_count" = "Please enter updated strips count";
+
+/*  */
+"Update" = "Update";
+
+/*  */
+"Cancel" = "Cancel";
+
+/*  */
+"Very_low" = "Very low";
+
+/*  */
+"Hypo" = "Hypo";
+
+/*  */
+"Low" = "Low";
+
+/*  */
+"Normal" = "Normal";
+
+/*  */
+"High" = "High";
+
+/*  */
+"Very_high" = "Very high";
+
+/*  */
+"Hyper" = "Hyper";
+
+/*  */
+"OK" = "OK";
+
+/*  */
+"Register_new_device" = "Register new device?";
+
+/*  */
+"Enter_measurement" = "Enter measurement";
+
+/*  */
+"New_tag_name" = "New tag name";
+
+/*  */
+"General_error" = "General Error";
+
+/*  */
+"The_meter_is_too_hot_or_cold" = "The meter is too hot or cold.";
+
+/*  */
+"Used_test_strip_was_inserted_into_the_test_port" = "Used test strip was inserted into the test port.";
+
+/*  */
+"Test_strip_is_damaged_or_was_removed_too_soon" = "Test strip is damaged or was removed too soon.";
+
+/*  */
+"The_sample_was_improperly_applied_or_there_was_electronic_interference_during_the_test" = "The sample was improperly applied or there was electronic interference during the test.";
+
+/*  */
+"Internal_error_cannot_read_test_strip" = "Internal error – cannot read test strip.";
+
+/*  */
+"Inserted_blood_is_less_than_standard" = "Blood drop was not big enough or blood smears on the strip.";
+
+/*  */
+"Blood_was_applied_to_the_wrong_part_of_the_test_strip" = "Blood was applied to the wrong part of the test strip.";
+
+/*  */
+"Blood_was_not_applied_on_the_test_strip" = "Blood was not applied on the test strip.";
+
+/*  */
+"Add_new_tag" = "Add new tag...";
+
+/*  */
+"Delete_tags" = "Delete tags";
+
+/*  */
+"Delete_tags_title" = "Delete these tags?";
+
+/*  */
+"Last_result" = "Last Result";
+
+/*  */
+"Last_week" = "Last Week";
+
+/*  */
+"Glucose_trend" = "Glucose trend";
+
+/*  */
+"Glucose_distribution" = "Glucose Distribution";
+
+/*  */
+"There_are" = "There are";
+
+/*  */
+"Reminders_set" = "Reminders set";
+
+/*  */
+"You_have" = "You Have";
+
+/*  */
+"Test_strips_left" = "Test strips left";
+
+/*  */
+"Filter_by_tags" = "Filter by tags";
+
+/*  */
+"Waiting_for_a_measurement" = "Waiting for a Measurement";
+
+/*  */
+"Add_manual" = "Add manual";
+
+/*  */
+"Address" = "Address";
+
+/*  */
+"State" = "State";
+
+/*  */
+"Country" = "Country";
+
+/*  */
+"Quantity" = "Quantity";
+
+/*  */
+"Total" = "Total";
+
+/*  */
+"Default_shipping_name" = "Michael Smith";
+
+/*  */
+"Default_shipping_address" = "36th state street, LA";
+
+/*  */
+"Default_shipping_state" = "CA";
+
+/*  */
+"Default_shipping_country" = "USA";
+
+/*  */
+"Place_order" = "Place order";
+
+/*  */
+"Email" = "Email";
+
+/*  */
+"Tap_to_enter" = "Tap to enter..";
+
+/*  */
+"First_name" = "First name";
+
+/*  */
+"Last_name" = "Last name";
+
+/*  */
+"Diabetes_type" = "Diabetes type";
+
+/*  */
+"Height" = "Height";
+
+/*  */
+"Weight" = "Weight";
+
+/*  */
+"Lower_limit" = "Lower limit";
+
+/*  */
+"Upper_limit" = "Upper limit";
+
+/*  */
+"Daily_measurements" = "Daily measurements";
+
+/*  */
+"Tag_your_results" = "Tag your result";
+
+/*  */
+"Before" = "Before";
+
+/*  */
+"After" = "After";
+
+/*  */
+"Breakfast" = "Breakfast";
+
+/*  */
+"Lunch" = "Lunch";
+
+/*  */
+"Dinner" = "Dinner";
+
+/*  */
+"Feel" = "Feel";
+
+/*  */
+"Well" = "Well";
+
+/*  */
+"Bad" = "Bad";
+
+/*  */
+"Welcome_to_glucome" = "Welcome to GlucoMe";
+
+/*  */
+"Password" = "Password";
+
+/*  */
+"Retype_password" = "Retype password";
+
+/*  */
+"Already_registered" = "Already Registered?";
+
+/*  */
+"Need_to_register" = "Need to register?";
+
+/*  */
+"Forgot_your_password" = "Forgot your password?";
+
+/*  */
+"Register" = "Register";
+
+/*  */
+"Login" = "Login";
+
+/*  */
+"Password_too_short" = "Password should be at least 6 characters long";
+
+/*  */
+"Passwords_dont_match" = "Passwords do not match";
+
+/*  */
+"invalid_email" = "Email is invalid";
+
+/*  */
+"wrong_email_or_password" = "Wrong email or password";
+
+/*  */
+"user_already_registered" = "Email already registered";
+
+/*  */
+"Password_reset_Please_enter_your_email" = "Password reset\nPlease enter your email";
+
+/*  */
+"Password_reset_Password_recovery_instructions_were_sent_to_you" = "Password reset\nPassword recovery instructions were sent to you";
+
+/*  */
+"Password_reset_failed" = "Password reset failed";
+
+/*  */
+"Facts" = "Facts";
+
+/*  */
+"You_share_data_with" = "You share data with";
+
+/*  */
+"Persons" = "Persons";
+
+/*  */
+"Did_you_know" = "Did you know?";
+
+/*  */
+"Alerts" = "Alerts";
+
+/*  */
+"how" = "how";
+
+/*  */
+"when" = "when";
+
+/*  */
+"who" = "who";
+
+/*  */
+"Save_alert" = "Save alert";
+
+/*  */
+"Add_alert" = "Add alert";
+
+/*  */
+"Delete_alert" = "Delete alert";
+
+/*  */
+"title_activity_glucose8_add_alert" = "Glucose8AddAlertActivity";
+
+/*  */
+"Enter_Email_address" = "Enter Email address";
+
+/*  */
+"Choose_from_contacts" = "Choose from contacts";
+
+/*  */
+"action_done" = "Done";
+
+/*  */
+"title_activity_tutorial" = "Tutorial";
+
+/*  */
+"title_activity_tags" = "Tags";
+
+/*  */
+"Welcome" = "Welcome";
+
+/*  */
+"Save" = "Save";
+
+/*  */
+"Tag_your_result" = "Tag";
+
+/*  */
+"Export_history" = "Export history";
+
+/*  */
+"hello_world" = "Hello world!";
+
+/*  */
+"action_settings" = "Settings";
+
+/*  */
+"Before_breakfast" = "Before breakfast";
+
+/*  */
+"After_breakfast" = "After breakfast";
+
+/*  */
+"Before_lunch" = "Before lunch";
+
+/*  */
+"After_lunch" = "After lunch";
+
+/*  */
+"Before_dinner" = "Before dinner";
+
+/*  */
+"After_dinner" = "After dinner";
+
+/*  */
+"Before_snack" = "Before snack";
+
+/*  */
+"After_snack" = "After snack";
+
+/*  */
+"Bedtime" = "Bedtime";
+
+/*  */
+"Midnight" = "Midnight";
+
+/*  */
+"Not_tagged" = "Not tagged";
+
+/*  */
+"enter_note" = "Enter note";
+
+/*  */
+"add_some_note" = "Add some notes...";
+
+/*  */
+"Yesterday" = "Yesterday";
+
+/*  */
+"Today" = "Today";
+
+/*  */
+"at" = "at";
+
+/*  */
+"Battery_level_is_low_Please_replace_battery" = "Battery level is low. Please replace battery.";
+
+/*  */
+"Strip_is_damaged" = "Strip is damaged";
+
+/*  */
+"Battery_is_damaged" = "Battery is damaged";
+
+/*  */
+"Units" = "Units";
+
+/*  */
+"place_blood_drop" = "Place a blood drop onto the strip";
+
+/*  */
+"action_next" = "Next";
+
+/*  */
+"action_prev" = "Prev";
+
+/*  */
+"Finish" = "Finish";
+
+/*  */
+"Last_3_days" = "Last 3 days";
+
+/*  */
+"Friends_score" = "Friends score";
+
+/*  */
+"Friends" = "Friends";
+
+/*  */
+"Filtered" = "Filtered";
+
+/*  */
+"Unfilter" = "Unfilter";
+
+/*  */
+"Following" = "Following";
+
+/*  */
+"Followers" = "Followers";
+
+/*  */
+"Add" = "Add";
+
+/*  */
+"Delete" = "Delete";
+
+/*  */
+"people_who_can_see_your_data" = "People who can see my data";
+
+/*  */
+"please_entr_friend_email" = "Please enter your friend's Email";
+
+/*  */
+"alerts_set" = "Alerts set";
+
+/*  */
+"Resend_confirmation" = "Resend confirmation";
+
+/*  */
+"Please_enter_your_email" = "Please enter your email";
+
+/*  */
+"Please_confirm_your_email_and_login" = "Please confirm your email and login";
+
+/*  */
+"Confirmation_email_was_sent_to_you" = "Confirmation email was sent to you";
+
+/*  */
+"Welcome_aboard" = "Welcome aboard";
+
+/*  */
+"out_of" = "Out of";
+
+/*  */
+"Out_of_x_friends" = "Out of %1$d friends";
+
+/*  */
+"Basal" = "Basal";
+
+/*  */
+"Bolus_Morning" = "Bolus - Morning";
+
+/*  */
+"Bolus_Noon" = "Bolus - Noon";
+
+/*  */
+"Bolus_Evening" = "Bolus - Evening";
+
+/*  */
+"Pills" = "Pills";
+
+/*  */
+"Value" = "Value";
+
+/*  */
+"Notes" = "Notes";
+
+/*  */
+"Set_time" = "Set time";
+
+/*  */
+"Set" = "Set";
+
+/*  */
+"Enter_medicine_amount" = "Enter medicine amount";
+
+/*  */
+"Last_Measurement" = "Last Measurement";
+
+/*  */
+"Last_Injection" = "Last Injection";
+
+/*  */
+"Snack" = "Snack";
+
+/*  */
+"Night" = "Night";
+
+/*  */
+"Set_food_amount" = "Set food amount";
+
+/*  */
+"Set_activity_amount" = "Set activity amount";
+
+/*  */
+"Last_activity" = "Last activity";
+
+/*  */
+"Last_meal" = "Last meal";
+
+/*  */
+"Enter_your_weight" = "Enter your weight";
+
+/*  */
+"Last_weight" = "Last weight";
+
+/*  */
+"Small_meal" = "Small meal";
+
+/*  */
+"Medium_meal" = "Medium meal";
+
+/*  */
+"large_meal" = "Large meal";
+
+/*  */
+"Easy_physical_activity" = "Easy physical activity";
+
+/*  */
+"Medium_physical_activity" = "Medium physical activity";
+
+/*  */
+"Hard_physical_activity" = "Hard physical activity";
+
+/*  */
+"cancel_q" = "Cancel?";
+
+/*  */
+"Yes" = "Yes";
+
+/*  */
+"No" = "No";
+
+/*  */
+"Please_enter_a_value" = "Please enter a value";
+
+/*  */
+"Are_you_sure_this_is_the_value" = "Are you sure this is the value?";
+
+/*  */
+"This_value_seems_unusual_Are_you_sure_it_is_correct" = "This value seems unusual. Are you sure it is correct?";
+
+/*  */
+"Filter" = "Filter";
+
+/*  */
+"Medicine" = "Medicine";
+
+/*  */
+"Food" = "Food";
+
+/*  */
+"Activity" = "Activity";
+
+/*  */
+"Hide" = "Hide";
+
+/*  */
+"Glucose_filter" = "Glucose filter";
+
+/*  */
+"empty_share_text" = "Are you running out of strips?\n\nDo you want to share your results with family member or your loved ones?\n\nThis is the place where you can do it.\n\nTap on the button bellow and start sharing now.\n\nBecause sharing is caring.";
+
+/*  */
+"People" = "People";
+
+/*  */
+"Share" = "Share";
+
+/*  */
+"How_to_share" = "How to share";
+
+/*  */
+"share_with_whom" = "Share with whom";
+
+/*  */
+"Phone_number" = "Phone number";
+
+/*  */
+"Choose_contact" = "Choose contact";
+
+/*  */
+"Choose" = "Choose";
+
+/*  */
+"Relationship" = "Relationship";
+
+/*  */
+"Start_sharing" = "Start sharing";
+
+/*  */
+"Continue" = "Continue";
+
+/*  */
+"Parent" = "Parent";
+
+/*  */
+"Spouse" = "Spouse";
+
+/*  */
+"Caregiver" = "Caregiver";
+
+/*  */
+"Child" = "Child";
+
+/*  */
+"Physician" = "Physician";
+
+/*  */
+"Other" = "Other";
+
+/*  */
+"Choose_relationship" = "Choose relationship";
+
+/*  */
+"Please_fill_all_fields" = "Please fill all fields";
+
+/*  */
+"Exit_app" = "Exit app?";
+
+/*  */
+"Date_is_in_the_future" = "Date is in the future";
+
+/*  */
+"Phone_is_invalid" = "Phone number is invalid";
+
+/*  */
+"title_activity_qrreader" = "Read GlucoMe QR";
+
+/*  */
+"disconnect_from_clinic" = "Disconnect from clinic";
+
+/*  */
+"connect_to_a_new_clinic" = "Connect to a new clinic";
+
+/*  */
+"not_a_glucome_qr" = "Not a GlucoMe QR";
+
+/*  */
+"clinic_tap_to_scan" = "Clinic: Tap to scan";
+
+/*  */
+"doctor" = "Doctor";
+
+/*  */
+"clinic" = "Clinic";
+
+/*  */
+"Exit" = "Exit";
+
+/*  */
+"Ok_i_will_restart" = "OK, I will restart";
+
+/*  */
+"Disconnect" = "Disconnect";
+
+/*  */
+"Are_you_sure_you_want_to_disconnect_from_this_clinic" = "Are you sure you want to disconnect from this clinic?";
+
+/*  */
+"I_am_sure" = "I am sure";
+
+/*  */
+"Bolus_correction" = "Bolus - correction";
+
+/*  */
+"Quit" = "Quit";
+
+/*  */
+"This_feature_must_have_camera_permission" = "This feature must have camera permission";
+
+/*  */
+"Camera_permission" = "Camera permission";
+
+/*  */
+"Set_permission" = "Set permission";
+
+/*  */
+"Storage_permission" = "Storage permission";
+
+/*  */
+"This_feature_must_have_external_storage_permission" = "This feature must have external storage permission";
+
+/*  */
+"Calendar_permission" = "Calendar permission";
+
+/*  */
+"This_feature_must_have_calendar_permission" = "This feature must have calendar permission";
+
+/*  */
+"Phone" = "Phone";
+
+/*  */
+"SMS" = "SMS";
+
+/*  */
+"prediabetes" = "Prediabetes";
+
+/*  */
+"lada_1_5" = "LADA (1.5)";
+
+/*  */
+"mody" = "MODY";
+
+/*  */
+"immediately" = "Immediately";
+
+/*  */
+"once_a_day" = "Once a day";
+
+/*  */
+"taking_blood_test" = "Taking blood test";
+
+/*  */
+"how_to_use" = "How to use:";
+
+/*  */
+"legal_info" = "Legal info:";
+
+/*  */
+"Dismiss" = "Dismiss";
+
+/*  */
+"need_more_help" = "Need more help?";
+
+/*  */
+"next" = "Next";
+
+/*  */
+"prev" = "Prev";
+
+/*  */
+"app_info" = "App info";
+
+/*  */
+"Logout" = "Logout";
+
+/*  */
+"reset" = "Reset";
+
+/*  */
+"done" = "Done";
+
+/*  */
+"skip" = "Skip";
+
+/*  */
+"add" = "Add";
+
+/*  */
+"update" = "Update";
+
+/*  */
+"hypoglycemia" = "Hypoglycemia";
+
+/*  */
+"distribution" = "Distribution";
+
+/*  */
+"refreshing" = "Refreshing..";
+
+/*  */
+"all" = "All";
+
+/*  */
+"pre_meal_target" = "Pre meal target";
+
+/*  */
+"post_meal_target" = "Post meal target";
+
+/*  */
+"pairing" = "Pairing";
+
+/*  */
+"once_a_week" = "Once a Week";
+
+/*  */
+"units" = "units";
+
+/*  */
+"weight" = "weight";
+
+/*  */
+"Audio_error_please_restart_app" = "Audio error, please restart app";
+
+/*  */
+"This_feature_must_have_read_contacts_permission" = "This feature must have read contacts permission";
+
+/*  */
+"Read_contacts_permission" = "Read contacts permission";
+
+/*  */
+"Last_3_months" = "Last 3 months";
+
+/*  */
+"Changes_were_not_saved_are_you_sure" = "Changes were not saved, are you sure?";
+
+/*  */
+"Discard_changes" = "Discard Changes";
+
+/*  */
+"Next_treatment" = "Next treatment";
+
+/*  */
+"remind_me_in_2_hours" = "Remind me in 2 hours";
+
+/*  */
+"transition_result" = "transition_result";
+
+/*  */
+"end_user_license_agreement" = "End user license agreement";
+
+/*  */
+"privacy_statement" = "Privacy statement";
+
+/*  */
+"patient_id" = "Patient ID";
+
+/*  */
+"save_and_inject" = "Save + inject";
+
+/*  */
+"We_aill_guide_you" = "We will guide you";
+
+/*  */
+"how_to_use_the_device" = "how to use the device";
+
+/*  */
+"Lancing_device" = "Lancing device";
+
+/*  */
+"Press_Next_once" = "Press Next once";
+
+/*  */
+"the_lancet_is_assambled" = "the lancet is assembled";
+
+/*  */
+"Take_the_cap_off" = "Take the cap off";
+
+/*  */
+"the_cap_is_off" = "the cap is off";
+
+/*  */
+"Insert_the_test_strip" = "Insert a test strip";
+
+/*  */
+"the_green_light_is_on" = "the green light is on";
+
+/*  */
+"Prick_your_finger" = "Prick your finger";
+
+/*  */
+"Press_Next_once_you" = "Press Next once you";
+
+/*  */
+"have_a_blood_drop_ready" = "have a blood drop ready";
+
+/*  */
+"Place_a_blood_drop" = "Place a blood drop";
+
+/*  */
+"Apply_to_the_edge_of_the_strip_and" = "Apply to the edge of the strip and";
+
+/*  */
+"wait_for_the_green_light_to_blink" = "wait for the green light to blink";
+
+/*  */
+"Audio_permission" = "Audio permission";
+
+/*  */
+"The_app_uses_Audio_to_communicate_with_the_GlucoMe_blood_glucose_monitor" = "The app uses Audio to communicate with GlucoMe blood glucose monitor";
+
+/*  */
+"you_must_grant_audio_permission_in_order_to_use_this_app" = "You must grant audio permission in order to use this app";
+
+/*  */
+"Assemble_the_lancing_device" = "Assemble the lancing device";
+
+/*  */
+"Remove_the_cap_by_rotating_the_cap_counter_clockwise" = "1. Remove the cap by rotating the cap counter-clockwise.";
+
+/*  */
+"Insert_the_lancet_to_the_lancing_holder" = "2.a. Insert the lancet to the lancing holder.";
+
+/*  */
+"Remove_the_round_blue_tip_to_expose_the_needle" = "2.b. Remove the round blue tip to expose the needle.";
+
+/*  */
+"Replace_the_cap_by_rotating_it_clockwise" = "3. Replace the cap by rotating it clockwise.";
+
+/*  */
+"Insert_a_test_strip" = "Insert a test strip";
+
+/*  */
+"Note_the_strip_golden_plates_and_the_device_black_arrow_are_on_the_same_side" = "1. Note the strip's golden plates and the device's black arrow are on the same side.";
+
+/*  */
+"Push_until_you_hear_a_beep" = "2. Push until you hear a beep.";
+
+/*  */
+"Make_sure_the_green_light_is_on" = "3. Make sure the green light is on.";
+
+/*  */
+"Adjust_the_lancing_device_between_one_to_five" = "1. Adjust the lancing device between one to five.";
+
+/*  */
+"Cock_the_device_by_pulling_the_bottom_part" = "2. Cock the device by pulling the bottom part.";
+
+/*  */
+"Place_it_carefully_on_the_tip_of_your_finger" = "3. Place it carefully on the tip of your finger.";
+
+/*  */
+"Press_the_trigger_button" = "4. Press the trigger button.";
+
+/*  */
+"Squeeze_your_finger_for_three_seconds" = "5. Squeeze your finger for three seconds.";
+
+/*  */
+"Make_sure_you_have_a_sufficient_blood_drop_ready_as_shown_in_the_picture" = "6. Make sure you have a sufficient blood drop ready as shown in the picture.";
+
+/*  */
+"do-not-smear-the-blood-on-the-golden-strip-place-it-close-to-the-edge-of-the-strip-and-let-the-blood" = "1. Do not smear the blood on the golden strip. Place it close to the edge of the strip and let the blood flow in.";
+
+/*  */
+"Make_sure_that_the_blood_flows_and_fills_the_entire_strip" = "2. Make sure that the blood flows and fills the entire strip.";
+
+/*  */
+"Error" = "Error";
+
+/*  */
+"Make_sure_the_device_is_within_the_appropriate_temperature_range_see_manual" = "Make sure the device is within the appropriate temperature range (see manual)";
+
+/*  */
+"Do_not_use_the_same_test_strip_Please_use_a_new_one" = "Do not use the same test strip. Please use a new one.";
+
+/*  */
+"Dont_remove_the_strip_before_the_glucose_has_been_measured" = "Dont remove the strip before the glucose has been measured.";
+
+/*  */
+"Please_measure_again_using_a_new_test_strip_Do_not_use_the_same_test_strip" = "Please measure again using a new test strip. Do not use the same test strip.";
+
+/*  */
+"If_the_error_reoccurs_please_replace_the_battery_of_the_device" = "If the error reoccurs, please replace the battery of the device";
+
+/*  */
+"Gently_squeeze_your_fingertip_until_a_round_drop_of_blood_forms_on_your_fingertip" = "Gently squeeze your fingertip until a round drop of blood forms on your fingertip.";
+
+/*  */
+"Apply_the_blood_drop_to_the_edge_of_the_strip_and_wait_for_the_green_light_to_blink" = "Apply the blood drop to the edge of the strip and wait for the green light to blink.";
+
+/*  */
+"Make_sure_to_apply_blood_on_the_edge_of_the_half_circle" = "Make sure to apply blood on the edge of the half circle.";
+
+/*  */
+"Battery_is_about_to_drain_please_replace_the_battery" = "Battery is about to drain. please replace the battery";
+
+/*  */
+"Remove_the_battery_cover" = "1. Remove the battery cover.";
+
+/*  */
+"Replace_the_battery" = "2. Replace the battery.";
+
+/*  */
+"Close_the_battery_cover" = "3. Close the battery cover.";
+
+/*  */
+"Daily" = "Daily";
+
+/*  */
+"Weekly" = "Weekly";
+
+/*  */
+"Application_version" = "Application version:";
+
+/*  */
+"SDK_version" = "SDK version:";
+
+/*  */
+"Given_at" = "Given at";
+
+/*  */
+"morning" = "morning";
+
+/*  */
+"noon" = "noon";
+
+/*  */
+"afternoon" = "afternoon";
+
+/*  */
+"evening" = "evening";
+
+/*  */
+"night" = "night";
+
+/*  */
+"Choose_diabetes_type" = "Choose diabetes type";
+
+/*  */
+"Gestational" = "Gestational";
+
+/*  */
+"Prediabetes" = "Prediabetes";
+
+/*  */
+"Treatment_plan" = "Treatment plan";
+
+/*  */
+"Treatment_diary" = "Treatment diary";
+
+/*  */
+"After_test" = "After test";
+
+/*  */
+"After_medication" = "After medication";
+
+/*  */
+"Hypoglycemia" = "Hypoglycemia";
+
+/*  */
+"Result_out_of_range" = "Result out of range";
+
+/*  */
+"Amount_of_strips_left" = "Amount of strips left";
+
+/*  */
+"Less_than" = "Less than";
+
+/*  */
+"No_measurements" = "No measurements";
+
+/*  */
+"A_reminder_to" = "A reminder to:";
+
+/*  */
+"Sunday" = "Sunday";
+
+/*  */
+"Monday" = "Monday";
+
+/*  */
+"Tuesday" = "Tuesday";
+
+/*  */
+"Wednesday" = "Wednesday";
+
+/*  */
+"Thursday" = "Thursday";
+
+/*  */
+"Friday" = "Friday";
+
+/*  */
+"Saturday" = "Saturday";
+
+/*  */
+"Measure_glucose_level" = "Measure glucose level";
+
+/*  */
+"Are_you_sure_you_want_to_join_this_clinic" = "Are you sure you want to join this clinic?";
+
+/*  */
+"and" = "and";
+
+/*  */
+"Join" = "Join";
+
+/*  */
+"Repeat" = "Repeat";
+
+/*  */
+"Timer" = "Timer";
+
+/*  */
+"e_g_Morning_reminder" = "e.g Morning reminder";
+
+/*  */
+"Recurring_daily" = "Recurring daily";
+
+/*  */
+"View" = "View";
+
+/*  */
+"Reminder" = "Reminder";
+
+/*  */
+"Close" = "Close";
+
+/*  */
+"No_data_available" = "No data available";
+
+/*  */
+"Back" = "Back";
+
+/*  */
+"Export" = "Export";
+
+/*  */
+"No_email_is_defined_or_there_is_a_problem_sending_emails" = "No email is defined or there is a problem sending emails";
+
+/*  */
+"Manual_input" = "Manual input";
+
+/*  */
+"Microphone_permission_denied" = "Microphone permission denied";
+
+/*  */
+"The_app_must_have_microphone_permission_to_communicate_with_the_BGM" = "The app must have microphone permission to communicate with the BGM";
+
+/*  */
+"Grant_permission" = "Grant permission";
+
+/*  */
+"Warning" = "Warning";
+
+/*  */
+"Replace_device_battery" = "Replace device battery";
+
+/*  */
+"A_new_GlucoMe_device_was_found_Would_you_like_to_register_it" = "A new GlucoMe device was found. Would you like to register it?";
+
+/*  */
+"You_can_share_data_with_others" = "You can share data with others";
+
+/*  */
+"Not_now" = "Not now";
+
+/*  */
+"Last_medicine" = "Last medicine";
+
+/*  */
+"Would_you_like_to" = "Would you like to:";
+
+/*  */
+"mg_dl" = "mg/dl";
+
+/*  */
+"mmol_L" = "mmol/L";
+
+/*  */
+"Are_you_sure" = "Are you sure?";
+
+/*  */
+"Go_back" = "Go back";
+
+/*  */
+"Correct" = "Correct";
+
+/*  */
+"Add_note" = "Add note";
+
+/*  */
+"Please_enter_your" = "Please enter your";
+
+/*  */
+"Enter_value" = "Enter value";
+
+/*  */
+"Please_wait" = "Please wait";
+
+/*  */
+"Please_approve_the_privacy_policy" = "Please approve the privacy policy";
+
+/*  */
+"Privacy_policy" = "Privacy policy";
+
+/*  */
+"Approve" = "Approve";
+
+/*  */
+"Deny" = "Deny";
+
+/*  */
+"Or" = "Or";
+
+/*  */
+"No_treatment_available" = "No treatment available";
+
+/*  */
+"A_communication_problem" = "A communication problem. Please make sure your are connected to the internet, that email is valid and password is correct";
+
+/*  */
+"Reset_password_successfully" = "Reset password successfully";

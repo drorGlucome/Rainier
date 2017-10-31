@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FoodActivityView">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="100"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aHX-ND-1QB">
+                    <rect key="frame" x="66" y="20" width="120" height="60"/>
+                    <color key="backgroundColor" red="1" green="0.72013483489999996" blue="0.41632022000000002" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JTS-bQ-6Bp">
+                    <rect key="frame" x="10" y="20" width="56" height="60"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <connections>
+                        <action selector="ButtonClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="UGf-25-vXZ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Us7-45-VYk">
+                    <rect key="frame" x="186" y="20" width="104" height="60"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <connections>
+                        <action selector="ButtonClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="dJ9-m2-5LT"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MHD-P7-Zto">
+                    <rect key="frame" x="86" y="20" width="80" height="60"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="80" id="cjV-X6-zj8"/>
+                        <constraint firstAttribute="height" constant="60" id="l6E-uq-IRZ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <connections>
+                        <action selector="ButtonClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="TVJ-xa-mqx"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Us7-45-VYk" firstAttribute="height" secondItem="MHD-P7-Zto" secondAttribute="height" id="0ha-ER-bTG"/>
+                <constraint firstAttribute="trailing" secondItem="Us7-45-VYk" secondAttribute="trailing" constant="10" id="2vx-Ca-raF"/>
+                <constraint firstItem="JTS-bQ-6Bp" firstAttribute="height" secondItem="MHD-P7-Zto" secondAttribute="height" id="4Lf-Zj-kR7"/>
+                <constraint firstItem="aHX-ND-1QB" firstAttribute="height" secondItem="Us7-45-VYk" secondAttribute="height" id="7GB-kR-xn9"/>
+                <constraint firstItem="aHX-ND-1QB" firstAttribute="centerY" secondItem="Us7-45-VYk" secondAttribute="centerY" id="Ij5-h4-1Lq"/>
+                <constraint firstItem="aHX-ND-1QB" firstAttribute="leading" secondItem="JTS-bQ-6Bp" secondAttribute="trailing" id="KLD-Zo-Z7D"/>
+                <constraint firstItem="JTS-bQ-6Bp" firstAttribute="centerY" secondItem="MHD-P7-Zto" secondAttribute="centerY" id="LfU-b3-YQd"/>
+                <constraint firstItem="JTS-bQ-6Bp" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="10" id="RPQ-Dl-CM8"/>
+                <constraint firstItem="JTS-bQ-6Bp" firstAttribute="width" secondItem="MHD-P7-Zto" secondAttribute="width" multiplier="0.7" id="cSB-Cy-6z2"/>
+                <constraint firstItem="Us7-45-VYk" firstAttribute="width" secondItem="MHD-P7-Zto" secondAttribute="width" multiplier="1.3" id="jWt-D9-uha"/>
+                <constraint firstItem="MHD-P7-Zto" firstAttribute="centerX" secondItem="aHX-ND-1QB" secondAttribute="centerX" id="qGX-vs-Tid"/>
+                <constraint firstItem="Us7-45-VYk" firstAttribute="centerY" secondItem="MHD-P7-Zto" secondAttribute="centerY" id="u5r-j4-RB0"/>
+                <constraint firstItem="MHD-P7-Zto" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="une-T5-KpO"/>
+                <constraint firstItem="Us7-45-VYk" firstAttribute="leading" secondItem="aHX-ND-1QB" secondAttribute="trailing" id="vsK-rL-7Rj"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="button1" destination="JTS-bQ-6Bp" id="Wmn-a0-uoG"/>
+                <outlet property="button2" destination="MHD-P7-Zto" id="XqR-Lg-TQL"/>
+                <outlet property="button3" destination="Us7-45-VYk" id="NYN-m9-UfT"/>
+            </connections>
+            <point key="canvasLocation" x="141" y="289"/>
+        </view>
+    </objects>
+</document>

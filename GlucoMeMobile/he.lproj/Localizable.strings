@@ -1,0 +1,1256 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Thu, 22 Jun 2017 10:10:46 +0100
+ */
+
+/*  */
+"app_name" = "GlucoMe";
+
+/*  */
+"title_activity_results_inner_page" = "תוצאה";
+
+/*  */
+"title_section1" = "מדידה";
+
+/*  */
+"title_section2" = "תוצאות";
+
+/*  */
+"title_section3" = "הגדרות";
+
+/*  */
+"Date" = "תאריך";
+
+/*  */
+"Glucose" = "גלוקוז (סוכר)";
+
+/*  */
+"Tags" = "תגיות";
+
+/*  */
+"History" = "תוצאות";
+
+/*  */
+"Estimated_HbA1c" = "הערכת HbA1c";
+
+/*  */
+"Trends" = "מגמת רמת הסוכר בדם";
+
+/*  */
+"Distribution" = "התפלגות רמת הסוכר בדם";
+
+/*  */
+"Select_none" = "בחר כלום";
+
+/*  */
+"Select_all" = "בחר הכל";
+
+/*  */
+"No_tags" = "ללא תגיות";
+
+/*  */
+"Name" = "שם";
+
+/*  */
+"Type" = "סוג";
+
+/*  */
+"One_time" = "חד פעמי";
+
+/*  */
+"Reminders" = "תזכורות";
+
+/*  */
+"Glucose_reminder_title" = "תזכורת למדידת סוכר";
+
+/*  */
+"Boxes" = "חבילות";
+
+/*  */
+"Not_available_right_now" = "לא זמין כרגע..";
+
+/*  */
+"Order_strips" = "הזמנת סטריפים";
+
+/*  */
+"Please_enter_updated_strips_count" = "אנא הזינו את כמות הסטריפים שברשותכם";
+
+/*  */
+"Update" = "עדכון";
+
+/*  */
+"Cancel" = "ביטול";
+
+/*  */
+"Very_low" = "נמוך מאוד";
+
+/*  */
+"Hypo" = "היפוגליקמיה";
+
+/*  */
+"Low" = "נמוך";
+
+/*  */
+"Normal" = "תקין";
+
+/*  */
+"High" = "גבוה";
+
+/*  */
+"Very_high" = "גבוה מאוד";
+
+/*  */
+"Hyper" = "היפרגליקמיה";
+
+/*  */
+"OK" = "אישור";
+
+/*  */
+"Register_new_device" = "מכשיר חדש זוהה. האם ברצונך להשתמש בו ?";
+
+/*  */
+"Enter_measurement" = "הכנס מדידה";
+
+/*  */
+"New_tag_name" = "אנא הקלידו תגית חדשה";
+
+/*  */
+"General_error" = "שגיאה כללית";
+
+/*  */
+"The_meter_is_too_hot_or_cold" = "הטמפרטורה מחוץ לטווח התקין";
+
+/*  */
+"Used_test_strip_was_inserted_into_the_test_port" = "נעשה שימוש בסטריפ משומש";
+
+/*  */
+"Test_strip_is_damaged_or_was_removed_too_soon" = "ישנה בעיה עם הסטריפ. הוא פגום או שהוא הוצא בזמן הבדיקה";
+
+/*  */
+"The_sample_was_improperly_applied_or_there_was_electronic_interference_during_the_test" = "טיפת הדם הונחה בצורה שגויה או שהייתה הפרעה חשמלית בזמן הבדיקה";
+
+/*  */
+"Internal_error_cannot_read_test_strip" = "ישנה בעיה אלקטרונית במכשיר";
+
+/*  */
+"Inserted_blood_is_less_than_standard" = "הבדיקה מכילה מעט מדי דם";
+
+/*  */
+"Blood_was_applied_to_the_wrong_part_of_the_test_strip" = "הדם הונח בכיוון הלא נכון על סטריפ הבדיקה";
+
+/*  */
+"Blood_was_not_applied_on_the_test_strip" = "לא הוכנסה טיפת דם לסטריפ הבדיקה";
+
+/*  */
+"Add_new_tag" = "הוסף תגית חדשה...";
+
+/*  */
+"Delete_tags" = "מחק תגיות";
+
+/*  */
+"Delete_tags_title" = "למחוק את התגיות הבאות?";
+
+/*  */
+"Last_result" = "התוצאה האחרונה";
+
+/*  */
+"Last_week" = "בשבוע האחרון";
+
+/*  */
+"Glucose_trend" = "מגמת רמת הסוכר";
+
+/*  */
+"Glucose_distribution" = "התפלגות רמת הסוכר";
+
+/*  */
+"There_are" = "ישנן";
+
+/*  */
+"Reminders_set" = "תזכורות פעילות";
+
+/*  */
+"You_have" = "יש לכם";
+
+/*  */
+"Test_strips_left" = "סטריפים";
+
+/*  */
+"Filter_by_tags" = "סינון לפי תגיות";
+
+/*  */
+"Waiting_for_a_measurement" = "ממתין לביצוע מדידה במכשיר";
+
+/*  */
+"Add_manual" = "הכנס ידנית";
+
+/*  */
+"Address" = "כתובת";
+
+/*  */
+"State" = "מדיהב בארהב";
+
+/*  */
+"Country" = "מדינה";
+
+/*  */
+"Quantity" = "כמות";
+
+/*  */
+"Total" = "סה״כ";
+
+/*  */
+"Default_shipping_name" = "ישראל ישראלי";
+
+/*  */
+"Default_shipping_address" = "ויצמן 123 תל אביב";
+
+/*  */
+"Default_shipping_state" = "ישראל";
+
+/*  */
+"Default_shipping_country" = "ישראל";
+
+/*  */
+"Place_order" = "בצע הזמנה";
+
+/*  */
+"Email" = "דוא״ל";
+
+/*  */
+"Tap_to_enter" = "לחץ על מנת להכניס..";
+
+/*  */
+"First_name" = "שם פרטי";
+
+/*  */
+"Last_name" = "שם משפחה";
+
+/*  */
+"Diabetes_type" = "סוג סוכרת";
+
+/*  */
+"Height" = "גובה";
+
+/*  */
+"Weight" = "משקל";
+
+/*  */
+"Lower_limit" = "גבול תחתון";
+
+/*  */
+"Upper_limit" = "גבול עליון";
+
+/*  */
+"Daily_measurements" = "מדידות ביום";
+
+/*  */
+"Tag_your_results" = "תייגו את התוצאה";
+
+/*  */
+"Before" = "לפני";
+
+/*  */
+"After" = "אחרי";
+
+/*  */
+"Breakfast" = "בוקר";
+
+/*  */
+"Lunch" = "צהריים";
+
+/*  */
+"Dinner" = "ערב";
+
+/*  */
+"Feel" = "מרגיש";
+
+/*  */
+"Well" = "טוב";
+
+/*  */
+"Bad" = "רע";
+
+/*  */
+"Welcome_to_glucome" = "ברוך הבא לגלוקומי";
+
+/*  */
+"Password" = "סיסמא";
+
+/*  */
+"Retype_password" = "ססמא שנית";
+
+/*  */
+"Already_registered" = "כבר רשום?";
+
+/*  */
+"Need_to_register" = "צריך להירשם?";
+
+/*  */
+"Forgot_your_password" = "שכחת את הססמא?";
+
+/*  */
+"Register" = "הירשם";
+
+/*  */
+"Login" = "התחבר";
+
+/*  */
+"Password_too_short" = "הסיסמא צריכה להיות לפחות באורך של 6 תוים";
+
+/*  */
+"Passwords_dont_match" = "הסיסמאות לא תואמות";
+
+/*  */
+"invalid_email" = "אימייל לא תקין";
+
+/*  */
+"wrong_email_or_password" = "אימייל או ססמא שגויים";
+
+/*  */
+"user_already_registered" = "אימייל תפוס";
+
+/*  */
+"Password_reset_Please_enter_your_email" = "איפוס סיסמא\nהכנס אימייל בבקשה";
+
+/*  */
+"Password_reset_Password_recovery_instructions_were_sent_to_you" = "איפוס סיסמא\nהוראות שחזור סיסמא נשלחו אליך";
+
+/*  */
+"Password_reset_failed" = "איפוס סיסמא נכשל";
+
+/*  */
+"Alerts" = "התראות";
+
+/*  */
+"You_share_data_with" = "אתה משתף מידע עם";
+
+/*  */
+"Persons" = "אנשים";
+
+/*  */
+"Did_you_know" = "האם ידעת?";
+
+/*  */
+"Facts" = "עובדות";
+
+/*  */
+"how" = "איך";
+
+/*  */
+"when" = "מתי";
+
+/*  */
+"who" = "מי";
+
+/*  */
+"Save_alert" = "שמור התראה";
+
+/*  */
+"Add_alert" = "הוסף התראה";
+
+/*  */
+"Delete_alert" = "מחק התראה";
+
+/*  */
+"Enter_Email_address" = "הכנס כתובת אימייל";
+
+/*  */
+"Choose_from_contacts" = "בחר מאנשי הקשר";
+
+/*  */
+"action_done" = "סיום";
+
+/*  */
+"title_activity_tutorial" = "מדריך";
+
+/*  */
+"Welcome" = "ברוך הבא";
+
+/*  */
+"Save" = "שמור";
+
+/*  */
+"Tag_your_result" = "תייג את התוצאה";
+
+/*  */
+"Export_history" = "יצא היסטוריה";
+
+/*  */
+"hello_world" = "Hello world!";
+
+/*  */
+"action_settings" = "Settings";
+
+/*  */
+"title_activity_tags" = "תגיות";
+
+/*  */
+"title_activity_glucose8_add_alert" = "Glucose8AddAlertActivity";
+
+/*  */
+"Before_breakfast" = "לפני ארוחת בוקר";
+
+/*  */
+"After_breakfast" = "אחרי ארוחת בוקר";
+
+/*  */
+"Before_lunch" = "לפני ארוחת צהריים";
+
+/*  */
+"After_lunch" = "אחרי ארוחת צהריים";
+
+/*  */
+"Before_dinner" = "לפני ארוחת ערב";
+
+/*  */
+"After_dinner" = "אחרי ארוחת ערב";
+
+/*  */
+"Before_snack" = "לפני חטיף";
+
+/*  */
+"After_snack" = "אחרי חטיף";
+
+/*  */
+"Bedtime" = "לפני שינה";
+
+/*  */
+"Midnight" = "אמצע הלילה";
+
+/*  */
+"Not_tagged" = "ללא תיוג";
+
+/*  */
+"enter_note" = "הכנס הערה";
+
+/*  */
+"add_some_note" = "הוסף הערות...";
+
+/*  */
+"at" = "ב";
+
+/*  */
+"Today" = "היום";
+
+/*  */
+"Yesterday" = "אתמול";
+
+/*  */
+"Battery_level_is_low_Please_replace_battery" = "הסוללה חלשה, אנא החליפו אותה בהקדם";
+
+/*  */
+"Strip_is_damaged" = "הסטריפ פגום";
+
+/*  */
+"Battery_is_damaged" = "הבטריה פגומה";
+
+/*  */
+"Units" = "יחידות";
+
+/*  */
+"place_blood_drop" = "שים דם על הסטריפ";
+
+/*  */
+"action_next" = "הבא";
+
+/*  */
+"action_prev" = "קודם";
+
+/*  */
+"Finish" = "סיים";
+
+/*  */
+"Last_3_days" = "3 ימים אחרונים";
+
+/*  */
+"Friends_score" = "ציון חברתי";
+
+/*  */
+"Friends" = "חברים";
+
+/*  */
+"Filtered" = "מסוננים";
+
+/*  */
+"Unfilter" = "הצג";
+
+/*  */
+"Following" = "חברים";
+
+/*  */
+"Followers" = "חברים שרואים אותי";
+
+/*  */
+"Add" = "הוסף";
+
+/*  */
+"Delete" = "מחק";
+
+/*  */
+"people_who_can_see_your_data" = "אנשים שרואים את המידע שלי";
+
+/*  */
+"please_entr_friend_email" = "הכנס את האימייל של חברך";
+
+/*  */
+"alerts_set" = "התראות";
+
+/*  */
+"Resend_confirmation" = "שלח מייל אישור שוב";
+
+/*  */
+"Please_enter_your_email" = "הכנס אימייל";
+
+/*  */
+"Please_confirm_your_email_and_login" = "אשרו את האימייל והתחברו";
+
+/*  */
+"Confirmation_email_was_sent_to_you" = "אימייל אישור נשלח";
+
+/*  */
+"Welcome_aboard" = "ברוך הבא";
+
+/*  */
+"out_of" = "מתוך";
+
+/*  */
+"Out_of_x_friends" = "מתוך %1$d חברים";
+
+/*  */
+"Basal" = "בזאלי";
+
+/*  */
+"Bolus_Noon" = "בולוס - צהריים";
+
+/*  */
+"Bolus_Morning" = "בולוס - בוקר";
+
+/*  */
+"Bolus_Evening" = "בולוס - ערב";
+
+/*  */
+"Value" = "ערך";
+
+/*  */
+"Notes" = "הערות";
+
+/*  */
+"Set_time" = "בחר זמן";
+
+/*  */
+"Set" = "בחר";
+
+/*  */
+"Enter_medicine_amount" = "הכנס כמות תרופות";
+
+/*  */
+"Last_Injection" = "הזרקה אחרונה";
+
+/*  */
+"Last_Measurement" = "מדידה אחרונה";
+
+/*  */
+"Night" = "לילה";
+
+/*  */
+"Snack" = "חטיף";
+
+/*  */
+"Set_activity_amount" = "כמות פעילות";
+
+/*  */
+"Set_food_amount" = "כמות אוכל";
+
+/*  */
+"Last_activity" = "פעילות אחרונה";
+
+/*  */
+"Last_meal" = "ארוחה אחרונה";
+
+/*  */
+"Enter_your_weight" = "הכנס את משקלך";
+
+/*  */
+"Last_weight" = "משקל אחרון";
+
+/*  */
+"Pills" = "כדורים";
+
+/*  */
+"Easy_physical_activity" = "פעילות גופנית קלה";
+
+/*  */
+"Hard_physical_activity" = "פעילות גופנית מאומצת";
+
+/*  */
+"Medium_meal" = "ארוחה בינונית";
+
+/*  */
+"Medium_physical_activity" = "פעילות גופנית בינונית";
+
+/*  */
+"Small_meal" = "ארוחה קלה";
+
+/*  */
+"large_meal" = "ארוחה גדולה";
+
+/*  */
+"cancel_q" = "ביטול?";
+
+/*  */
+"Yes" = "כן";
+
+/*  */
+"No" = "לא";
+
+/*  */
+"Please_enter_a_value" = "הכנס ערך בבקשה";
+
+/*  */
+"Are_you_sure_this_is_the_value" = "אתה בטוח שזה הערך?";
+
+/*  */
+"This_value_seems_unusual_Are_you_sure_it_is_correct" = "הערך יוצא דופן. האם אתה בטוח שהוא נכון?";
+
+/*  */
+"Filter" = "סינון";
+
+/*  */
+"Activity" = "פעילות";
+
+/*  */
+"Food" = "אוכל";
+
+/*  */
+"Medicine" = "תרופות";
+
+/*  */
+"Hide" = "הסתר";
+
+/*  */
+"Caregiver" = "מטפל";
+
+/*  */
+"Child" = "ילד";
+
+/*  */
+"Choose_contact" = "בחר איש קשר";
+
+/*  */
+"Choose" = "בחר";
+
+/*  */
+"Continue" = "המשך";
+
+/*  */
+"Choose_relationship" = "בחר יחס";
+
+/*  */
+"How_to_share" = "איך לשתף";
+
+/*  */
+"Glucose_filter" = "סינון גלוקוז";
+
+/*  */
+"Other" = "אחר";
+
+/*  */
+"Parent" = "הורה";
+
+/*  */
+"People" = "אנשים";
+
+/*  */
+"Phone_number" = "מספר טלפון";
+
+/*  */
+"Physician" = "רופא";
+
+/*  */
+"Please_fill_all_fields" = "בבקשה מלא את כל השדות";
+
+/*  */
+"Relationship" = "יחס";
+
+/*  */
+"Share" = "שתף";
+
+/*  */
+"Spouse" = "בן זוג";
+
+/*  */
+"Start_sharing" = "התחל לשתף";
+
+/*  */
+"empty_share_text" = "האם נגמרים לך הסטריפים?\n\nהאם אתה רוצה לשתף את תוצאותיך עם קרוביך?\n\nזה המקום לעשות זאת.\n\nלחץ על הלחצן כדי להתחיל לשתף.\n\nכי שיתוף זה דאגה.";
+
+/*  */
+"share_with_whom" = "עם מי לשתף";
+
+/*  */
+"Exit_app" = "לצאת מהאפליקציה?";
+
+/*  */
+"Date_is_in_the_future" = "התאריך עתידי";
+
+/*  */
+"Phone_is_invalid" = "טלפון לא תקין";
+
+/*  */
+"clinic" = "מרפאה";
+
+/*  */
+"clinic_tap_to_scan" = "מרפאה: לחץ על מנת לסרוק";
+
+/*  */
+"connect_to_a_new_clinic" = "התחבר למרפאה חדשה";
+
+/*  */
+"disconnect_from_clinic" = "התנתק מהמרפאה";
+
+/*  */
+"doctor" = "רופא";
+
+/*  */
+"not_a_glucome_qr" = "זהו אינו קיו-אר של גלוקומי";
+
+/*  */
+"title_activity_qrreader" = "קרא קיו-אר של גלוקומי";
+
+/*  */
+"Are_you_sure_you_want_to_disconnect_from_this_clinic" = "האם אתה בטוח שאתה רוצה להתנתק מהמרפאה?";
+
+/*  */
+"Disconnect" = "התנתק";
+
+/*  */
+"Exit" = "יציאה";
+
+/*  */
+"I_am_sure" = "אני בטוח";
+
+/*  */
+"Ok_i_will_restart" = "אוקי, אאתחל";
+
+/*  */
+"Bolus_correction" = "בולוס - תיקון";
+
+/*  */
+"weight" = "משקל";
+
+/*  */
+"update" = "עדכן";
+
+/*  */
+"units" = "יחידות";
+
+/*  */
+"Audio_error_please_restart_app" = "בעית אודיאו, בבקשה התחלת מחדש את האפליקציה";
+
+/*  */
+"Calendar_permission" = "הרשאת יומן";
+
+/*  */
+"Camera_permission" = "הרשאת מצלמה";
+
+/*  */
+"Quit" = "יציאה";
+
+/*  */
+"Set_permission" = "קבע הרשאה";
+
+/*  */
+"Storage_permission" = "הרשאת אכסון";
+
+/*  */
+"This_feature_must_have_calendar_permission" = "תכונה זו דורשת הרשאת יומן";
+
+/*  */
+"This_feature_must_have_camera_permission" = "תכונה זו דורשת הרשאת מצלמה";
+
+/*  */
+"This_feature_must_have_external_storage_permission" = "תכונה זו דורשת הרשאת אכסון";
+
+/*  */
+"add" = "הוסף";
+
+/*  */
+"all" = "הכל";
+
+/*  */
+"app_info" = "מידע על האפליקציה";
+
+/*  */
+"Dismiss" = "בטל";
+
+/*  */
+"distribution" = "פיזור";
+
+/*  */
+"done" = "סיים";
+
+/*  */
+"how_to_use" = "כיצד להשתמש:";
+
+/*  */
+"hypoglycemia" = "היפוגליקמיה";
+
+/*  */
+"immediately" = "מיידי";
+
+/*  */
+"lada_1_5" = "LADA (1.5)";
+
+/*  */
+"legal_info" = "מידע משפטי";
+
+/*  */
+"Logout" = "התנתק";
+
+/*  */
+"mody" = "MODY";
+
+/*  */
+"need_more_help" = "צריך עוד עזרה?";
+
+/*  */
+"next" = "הבא";
+
+/*  */
+"once_a_day" = "פעם ביום";
+
+/*  */
+"once_a_week" = "פעם בשבוע";
+
+/*  */
+"pairing" = "מכשיר משוייך";
+
+/*  */
+"Phone" = "טלפון";
+
+/*  */
+"post_meal_target" = "מטרה אחרי אוכל";
+
+/*  */
+"pre_meal_target" = "מטרה לפני אוכל";
+
+/*  */
+"prediabetes" = "קדם סכרתי";
+
+/*  */
+"prev" = "אחורה";
+
+/*  */
+"refreshing" = "מעדכן..";
+
+/*  */
+"reset" = "איפוס";
+
+/*  */
+"skip" = "דלג";
+
+/*  */
+"SMS" = "מסרון";
+
+/*  */
+"taking_blood_test" = "מדידת סוכר";
+
+/*  */
+"Changes_were_not_saved_are_you_sure" = "שינויים לא נשמרו. האם אתה בטוח?";
+
+/*  */
+"Discard_changes" = "התעלם משינויים";
+
+/*  */
+"Last_3_months" = "3 חודשים אחרונים";
+
+/*  */
+"Next_treatment" = "טיפול הבא";
+
+/*  */
+"Read_contacts_permission" = "הרשאה לקרוא אנשי קשר";
+
+/*  */
+"This_feature_must_have_read_contacts_permission" = "אופציה זו חייבת הרשאה לאנשי הקשר";
+
+/*  */
+"remind_me_in_2_hours" = "הזכר לי בעוד שעתיים";
+
+/*  */
+"end_user_license_agreement" = "הסכם משתמשי קצה";
+
+/*  */
+"privacy_statement" = "הצהרת פרטיות";
+
+/*  */
+"patient_id" = "מזהה יחודי";
+
+/*  */
+"save_and_inject" = "שמור והזרק";
+
+/*  */
+"Adjust_the_lancing_device_between_one_to_five" = "1. התאם את עוצמת הדקירה בין 1 ל 5";
+
+/*  */
+"Apply_the_blood_drop_to_the_edge_of_the_strip_and_wait_for_the_green_light_to_blink" = "הנח טיפת דם על קצה הסטריפ וחכה עד שהאור הירוק יהבהב.";
+
+/*  */
+"Apply_to_the_edge_of_the_strip_and" = "הנח על קצה הסטריפ";
+
+/*  */
+"Assemble_the_lancing_device" = "חבר את הדוקרן";
+
+/*  */
+"Audio_permission" = "הרשאת אודיו";
+
+/*  */
+"Battery_is_about_to_drain_please_replace_the_battery" = "הבטריה עומדת להתרוקן. בבקשה החלף את הבטריה";
+
+/*  */
+"Close_the_battery_cover" = "3. סגור את מכסה הבטריה";
+
+/*  */
+"Cock_the_device_by_pulling_the_bottom_part" = "2. דרוך את המכשיר על ידי משיכת החלק התחתון";
+
+/*  */
+"do-not-smear-the-blood-on-the-golden-strip-place-it-close-to-the-edge-of-the-strip-and-let-the-blood" = "1. אל תמרח את הדם על הסטריפ. הנח את הדם קרוב לקצה הסטריפ ותן לו לזרום פנימה.";
+
+/*  */
+"Do_not_use_the_same_test_strip_Please_use_a_new_one" = "אל תשתמש באותו סטריפ. בבקשה השתמש בסטריפ חדש.";
+
+/*  */
+"Dont_remove_the_strip_before_the_glucose_has_been_measured" = "אל תסיר את  הסטריפ לפני שהגלוקוז נמדד.";
+
+/*  */
+"Error" = "שגיאה";
+
+/*  */
+"Gently_squeeze_your_fingertip_until_a_round_drop_of_blood_forms_on_your_fingertip" = "לחץ בעדינות על האצבע עד שתיווצר טיפת דם עגולה";
+
+/*  */
+"If_the_error_reoccurs_please_replace_the_battery_of_the_device" = "אם השגיאה ממשיכה, אנא החלף את הבטריה של המכשיר";
+
+/*  */
+"Insert_a_test_strip" = "הכנס סטריפ לבדיקה";
+
+/*  */
+"Insert_the_lancet_to_the_lancing_holder" = "2.א. הכנס את הדוקרן לתוך הפתח";
+
+/*  */
+"Insert_the_test_strip" = "הכנס סטריפ לבדיקה";
+
+/*  */
+"Lancing_device" = "דוקרן";
+
+/*  */
+"Make_sure_that_the_blood_flows_and_fills_the_entire_strip" = "2. וודא שטיפת הדם זורמת וממלאה את כל הסטריפ";
+
+/*  */
+"Make_sure_the_device_is_within_the_appropriate_temperature_range_see_manual" = "וודא שהמכשיר בטווח המטמפרטורה הנורמלי (ראה מדריך למשתמש)";
+
+/*  */
+"Make_sure_the_green_light_is_on" = "3. וודא שהאור הירוק דולק";
+
+/*  */
+"Make_sure_to_apply_blood_on_the_edge_of_the_half_circle" = "וודא שאתה מניח את הדם על הקצה עם חצי העיגול";
+
+/*  */
+"Make_sure_you_have_a_sufficient_blood_drop_ready_as_shown_in_the_picture" = "6. וודא שיש לך מספיק דם מוכן כמו בתמונה";
+
+/*  */
+"Note_the_strip_golden_plates_and_the_device_black_arrow_are_on_the_same_side" = "1. וודא שהפסים הזהובים והחץ על המכשיר באותו הצד";
+
+/*  */
+"Place_a_blood_drop" = "הנח טיפת דם";
+
+/*  */
+"Place_it_carefully_on_the_tip_of_your_finger" = "3. הנח בזהירות על קצת האצבע";
+
+/*  */
+"Please_measure_again_using_a_new_test_strip_Do_not_use_the_same_test_strip" = "מדוד שוב בבקשה באמצעות סטריפ חדש. אל תשתמש באותו הסטריפ";
+
+/*  */
+"Press_Next_once" = "לחץ הבא כאשר";
+
+/*  */
+"Press_Next_once_you" = "לחץ הבא כאשר אתה";
+
+/*  */
+"Press_the_trigger_button" = "4. לחץ על ההדק";
+
+/*  */
+"Prick_your_finger" = "דקור את אצבעך";
+
+/*  */
+"Push_until_you_hear_a_beep" = "2. לחץ עד אשר אתה שומע צפצוף";
+
+/*  */
+"Remove_the_battery_cover" = "1. הסר את מכסה הבטריה";
+
+/*  */
+"Remove_the_cap_by_rotating_the_cap_counter_clockwise" = "1. הסר את המכסה על ידי סיבוב הפקק נגד כיוון השעון";
+
+/*  */
+"Remove_the_round_blue_tip_to_expose_the_needle" = "2.ב. הסר את הקצה הכחול העגול על מנת לחשוף את המחט";
+
+/*  */
+"Replace_the_battery" = "2. החלף את הבטריה";
+
+/*  */
+"Replace_the_cap_by_rotating_it_clockwise" = "3. החזר את הפקק על ידי סיבוב עם כיוון השעון";
+
+/*  */
+"Squeeze_your_finger_for_three_seconds" = "5. לחץ על אצבעך למשך 3 שניות";
+
+/*  */
+"Take_the_cap_off" = "הסר את הפקק";
+
+/*  */
+"The_app_uses_Audio_to_communicate_with_the_GlucoMe_blood_glucose_monitor" = "האפליקציה משתמשת באודיו על מנת לתקשר עם מד הסוגר של גלוקומי";
+
+/*  */
+"We_aill_guide_you" = "אנחנו נדריך אותך";
+
+/*  */
+"have_a_blood_drop_ready" = "מוכן עם טיפת דם";
+
+/*  */
+"how_to_use_the_device" = "איך להשתמש במכשיר";
+
+/*  */
+"the_cap_is_off" = "הפקק הוסר";
+
+/*  */
+"the_green_light_is_on" = "האור הירוק דולק";
+
+/*  */
+"the_lancet_is_assambled" = "הדוקרן מורכב";
+
+/*  */
+"wait_for_the_green_light_to_blink" = "חכה עד שהאור הירוק יהבהב";
+
+/*  */
+"you_must_grant_audio_permission_in_order_to_use_this_app" = "אתה חייב לתת הרשאת אודיו על מנת להשתמש באפליקציה זו";
+
+/*  */
+"Daily" = "יומי";
+
+/*  */
+"Weekly" = "שבועי";
+
+/*  */
+"Application_version" = "גרסת אפליקציה";
+
+/*  */
+"Given_at" = "ניתן ב";
+
+/*  */
+"SDK_version" = "גרסת SDK";
+
+/*  */
+"afternoon" = "אחר הצהריים";
+
+/*  */
+"evening" = "ערב";
+
+/*  */
+"morning" = "בוקר";
+
+/*  */
+"night" = "לילה";
+
+/*  */
+"noon" = "צהריים";
+
+/*  */
+"After_medication" = "אחרי תרופה";
+
+/*  */
+"After_test" = "אחרי מדידה";
+
+/*  */
+"Amount_of_strips_left" = "מספר מקלוני בדיקה שנשארו";
+
+/*  */
+"Choose_diabetes_type" = "בחר סוג סכרת";
+
+/*  */
+"Gestational" = "הריונית";
+
+/*  */
+"Hypoglycemia" = "היפוגליקמיה";
+
+/*  */
+"Less_than" = "פחות מ";
+
+/*  */
+"Prediabetes" = "קדם סכרתי";
+
+/*  */
+"Result_out_of_range" = "תוצאה מחוץ לתחום";
+
+/*  */
+"Treatment_diary" = "יומן טיפול";
+
+/*  */
+"Treatment_plan" = "תוכנית טיפול";
+
+/*  */
+"No_measurements" = "אין מדידות";
+
+/*  */
+"A_new_GlucoMe_device_was_found_Would_you_like_to_register_it" = "מכשיר קלוקומי חדש נמצא. האם תרצה להתחבר אליו?";
+
+/*  */
+"A_reminder_to" = "תזכורת ל:";
+
+/*  */
+"Add_note" = "הוסף תזכורת";
+
+/*  */
+"Are_you_sure" = "האם אתה בטוח?";
+
+/*  */
+"Are_you_sure_you_want_to_join_this_clinic" = "אתה בטוח שברצונך להצטרף למרפאה?";
+
+/*  */
+"Back" = "חזור";
+
+/*  */
+"Close" = "סגור";
+
+/*  */
+"Correct" = "נכון";
+
+/*  */
+"Export" = "ייצוא";
+
+/*  */
+"Friday" = "יום שישי";
+
+/*  */
+"Go_back" = "חזור אחורה";
+
+/*  */
+"Grant_permission" = "הענק הרשאה";
+
+/*  */
+"Join" = "הצטרף";
+
+/*  */
+"Last_medicine" = "תרופה אחרונה";
+
+/*  */
+"Manual_input" = "הכנסה ידנית";
+
+/*  */
+"Measure_glucose_level" = "מדוד רמת סוכר";
+
+/*  */
+"Microphone_permission_denied" = "הרשאת מיקרופון נדחתה";
+
+/*  */
+"Monday" = "יום שני";
+
+/*  */
+"No_data_available" = "אין מידע";
+
+/*  */
+"No_email_is_defined_or_there_is_a_problem_sending_emails" = "אין אימייל או שיש בעיה לשלוח אימייל";
+
+/*  */
+"Not_now" = "לא כעת";
+
+/*  */
+"Recurring_daily" = "בכל יום";
+
+/*  */
+"Reminder" = "תזכורת";
+
+/*  */
+"Repeat" = "מחזוריות";
+
+/*  */
+"Replace_device_battery" = "החלף את בטרית המכשיר";
+
+/*  */
+"Saturday" = "יום שבת";
+
+/*  */
+"Sunday" = "יום ראשון";
+
+/*  */
+"The_app_must_have_microphone_permission_to_communicate_with_the_BGM" = "האפליקציה דורשת הרשאת מיקרופון על מנת לתקשר עם מד הסוכר";
+
+/*  */
+"Thursday" = "יום חמישי";
+
+/*  */
+"Timer" = "טיימר";
+
+/*  */
+"Tuesday" = "יום שלישי";
+
+/*  */
+"View" = "צפה";
+
+/*  */
+"Warning" = "אזהרה";
+
+/*  */
+"Would_you_like_to" = "האם ברצונך לשתף מידע?";
+
+/*  */
+"You_can_share_data_with_others" = "אתה יכול לשתף מיד עם קרובים";
+
+/*  */
+"and" = "ו";
+
+/*  */
+"e_g_Morning_reminder" = "לדוגמא תזכורת בוקר";
+
+/*  */
+"mg_dl" = "מג\\דציליטר";
+
+/*  */
+"mmol_L" = "מילי מול\\ליטר";
+
+/*  */
+"Wednesday" = "יום רביעי";
+
+/*  */
+"Please_enter_your" = "בבקשה הכנס:";
+
+/*  */
+"Enter_value" = "הכנס ערך";
+
+/*  */
+"Please_wait" = "המתן בבקשה";
+
+/*  */
+"Please_approve_the_privacy_policy" = "בבקשה אשר את מדיניות הפרטיות";
+
+/*  */
+"Privacy_policy" = "הצהרת פרטיות";
+
+/*  */
+"Deny" = "דחה";
+
+/*  */
+"Approve" = "אשר";
+
+/*  */
+"Or" = "או";
+
+/*  */
+"No_treatment_available" = "אין תוכנית טיפול";
+
+/*  */
+"A_communication_problem" = "בעית התחברות. וודא כי יש חיבור לאינטרנט, האימייל נכון והססמא נכונה";
+
+/*  */
+"Reset_password_successfully" = "איפוס ססמא הצליח";

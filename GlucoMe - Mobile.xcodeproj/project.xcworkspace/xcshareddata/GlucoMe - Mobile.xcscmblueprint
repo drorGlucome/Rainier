@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1" : 0,
+    "BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FA42CFE1-D4D3-405B-B639-F422742E51A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1" : "GlucoMeMobileStandalone\/",
+    "BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB" : "GlucomeSDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GlucoMe - Mobile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GlucoMe - Mobile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yiftahbenaharon\/GlucoMeMobileStandalone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1CE1640B43A5D0ECE36235932EB0EF5B6FF93D1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yiftahbenaharon\/GlucoMeSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBE242DF7B014DF4EAE69BF2C9B4D036EA1B42BB"
+    }
+  ]
+}

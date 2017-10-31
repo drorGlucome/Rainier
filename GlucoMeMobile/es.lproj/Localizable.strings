@@ -1,0 +1,1259 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: strings.xml conversion
+ * Release: Working copy
+ * Locale: en, English
+ * Exported by: Unregistered user
+ * Exported at: Thu, 22 Jun 2017 10:09:56 +0100
+ */
+
+/*  */
+"app_name" = "GlucoMe";
+
+/*  */
+"title_activity_results_inner_page" = "Resultado";
+
+/*  */
+"title_section1" = "Medida";
+
+/*  */
+"title_section2" = "Resultados";
+
+/*  */
+"title_section3" = "Perfil";
+
+/*  */
+"Date" = "Fecha";
+
+/*  */
+"Glucose" = "Glucosa";
+
+/*  */
+"Tags" = "Etiquetas";
+
+/*  */
+"History" = "Historia";
+
+/*  */
+"Estimated_HbA1c" = "HbA1c Estimado";
+
+/*  */
+"Trends" = "Tendencias";
+
+/*  */
+"Distribution" = "Distribución";
+
+/*  */
+"Select_none" = "Deseleccionar todos";
+
+/*  */
+"Select_all" = "Seleccionar Todos";
+
+/*  */
+"No_tags" = "Sin Etiquetas";
+
+/*  */
+"Name" = "Nombre";
+
+/*  */
+"Type" = "Tipo";
+
+/*  */
+"One_time" = "Una vez";
+
+/*  */
+"Reminders" = "Recordatorios";
+
+/*  */
+"Glucose_reminder_title" = "Recordatorio de Glucosa";
+
+/*  */
+"Boxes" = "Cajas";
+
+/*  */
+"Not_available_right_now" = "No disponible por el momento..";
+
+/*  */
+"Order_strips" = "Ordenar tiras";
+
+/*  */
+"Please_enter_updated_strips_count" = "Por favor actualice el número de tiras";
+
+/*  */
+"Update" = "Actualizar";
+
+/*  */
+"Cancel" = "Cancelar";
+
+/*  */
+"Very_low" = "Muy bajo";
+
+/*  */
+"Hypo" = "Hipo";
+
+/*  */
+"Low" = "Bajo";
+
+/*  */
+"Normal" = "Normal";
+
+/*  */
+"High" = "Alto";
+
+/*  */
+"Very_high" = "Muy alto";
+
+/*  */
+"Hyper" = "Hiper";
+
+/*  */
+"OK" = "OK";
+
+/*  */
+"Register_new_device" = "¿Registrar nuevo aparato?";
+
+/*  */
+"Enter_measurement" = "Capturar medición";
+
+/*  */
+"New_tag_name" = "Nuevo nombre de etiqueta";
+
+/*  */
+"General_error" = "Error General";
+
+/*  */
+"The_meter_is_too_hot_or_cold" = "El medidor está muy frio o muy caliente.";
+
+/*  */
+"Used_test_strip_was_inserted_into_the_test_port" = "Se insertó una tira reactiva previamente utilizada en el lector de tiras reactivas.";
+
+/*  */
+"Test_strip_is_damaged_or_was_removed_too_soon" = "La tira reactiva está dañada o se retiró demasiado pronto.";
+
+/*  */
+"The_sample_was_improperly_applied_or_there_was_electronic_interference_during_the_test" = "La muestra no se aplicó apropiadamente o hubo una interferencia electrónica durante la prueba.";
+
+/*  */
+"Internal_error_cannot_read_test_strip" = "Error Interno – no se puede leer la tira reactiva.";
+
+/*  */
+"Inserted_blood_is_less_than_standard" = "La gota de sangre no fue suficientemente grande o la tira reactiva tiene manchas de sangre.";
+
+/*  */
+"Blood_was_applied_to_the_wrong_part_of_the_test_strip" = "Se aplicó sangre en la parte erronea de la tira reactiva.";
+
+/*  */
+"Blood_was_not_applied_on_the_test_strip" = "No se aplicó sangre a la tira reactiva.";
+
+/*  */
+"Add_new_tag" = "Agregar nueva etiqueta...";
+
+/*  */
+"Delete_tags" = "Borrar etiquetas";
+
+/*  */
+"Delete_tags_title" = "¿Borrar estas etiquetas?";
+
+/*  */
+"Last_result" = "Último Resultado";
+
+/*  */
+"Last_week" = "Última semana";
+
+/*  */
+"Glucose_trend" = "Tendencia en Glucosa";
+
+/*  */
+"Glucose_distribution" = "Distribución de Glucosa";
+
+/*  */
+"There_are" = "Hay";
+
+/*  */
+"Reminders_set" = "Recordatorios establecidos";
+
+/* In case "Reminder set"  refers to the reminders already set, the translation is "Recordatorios establecidos", in case it refers to actually set the reminders, the translation is "Establecer recordatorios" */
+"You_have" = "Le quedan";
+
+/*  */
+"Test_strips_left" = "Tiras reactivas";
+
+/*  */
+"Filter_by_tags" = "Filtrar por etiquetas";
+
+/*  */
+"Waiting_for_a_measurement" = "Esperando una medición";
+
+/*  */
+"Add_manual" = "Agregar manual";
+
+/*  */
+"Address" = "Dirección";
+
+/*  */
+"State" = "Estado";
+
+/*  */
+"Country" = "País";
+
+/*  */
+"Quantity" = "Cantidad";
+
+/*  */
+"Total" = "Total";
+
+/*  */
+"Default_shipping_name" = "Juan Perez";
+
+/*  */
+"Default_shipping_address" = "36th state street, LA";
+
+/*  */
+"Default_shipping_state" = "CA";
+
+/*  */
+"Default_shipping_country" = "USA";
+
+/*  */
+"Place_order" = "Ordenar";
+
+/*  */
+"Email" = "Email";
+
+/*  */
+"Tap_to_enter" = "Seleccione para capturar..";
+
+/*  */
+"First_name" = "Nombre";
+
+/*  */
+"Last_name" = "Apellido";
+
+/*  */
+"Diabetes_type" = "Tipo de Diabetes";
+
+/*  */
+"Height" = "Altura";
+
+/*  */
+"Weight" = "Peso";
+
+/*  */
+"Lower_limit" = "Límite inferior";
+
+/*  */
+"Upper_limit" = "Límite superior";
+
+/*  */
+"Daily_measurements" = "Medición diaria";
+
+/*  */
+"Tag_your_results" = "Etiqueta";
+
+/*  */
+"Before" = "Antes";
+
+/*  */
+"After" = "Después";
+
+/*  */
+"Breakfast" = "Desayuno";
+
+/*  */
+"Lunch" = "Almuerzo";
+
+/*  */
+"Dinner" = "Cena";
+
+/*  */
+"Feel" = "Sentir";
+
+/*  */
+"Well" = "Bien";
+
+/*  */
+"Bad" = "Mal";
+
+/*  */
+"Welcome_to_glucome" = "Bienvenido a GlucoMe";
+
+/*  */
+"Password" = "Password";
+
+/*  */
+"Retype_password" = "Password (nuevamente)";
+
+/*  */
+"Already_registered" = "¿Se ha registrado anteriormente?";
+
+/*  */
+"Need_to_register" = "¿Necesita registarse?";
+
+/*  */
+"Forgot_your_password" = "¿Olvidó su password?";
+
+/*  */
+"Register" = "Registro";
+
+/*  */
+"Login" = "Login";
+
+/*  */
+"Password_too_short" = "El password debe tener al menos 6 caracteres";
+
+/*  */
+"Passwords_dont_match" = "Passwords no coinciden";
+
+/*  */
+"invalid_email" = "Email es invalido";
+
+/*  */
+"wrong_email_or_password" = "Email o password erroneo";
+
+/*  */
+"user_already_registered" = "Email ya registrado";
+
+/*  */
+"Password_reset_Please_enter_your_email" = "Resetear password\nPor favor introduzca su email";
+
+/*  */
+"Password_reset_Password_recovery_instructions_were_sent_to_you" = "Resetear password\nSe enviaron las instrucciones para resetear su password";
+
+/*  */
+"Password_reset_failed" = "Falló el reseteo de password";
+
+/*  */
+"Facts" = "Hechos";
+
+/*  */
+"You_share_data_with" = "Comparte datos con";
+
+/*  */
+"Persons" = "Personas";
+
+/*  */
+"Did_you_know" = "¿Sabias que?";
+
+/*  */
+"Alerts" = "Alertas";
+
+/*  */
+"how" = "como";
+
+/*  */
+"when" = "cuando";
+
+/*  */
+"who" = "quien";
+
+/*  */
+"Save_alert" = "Salvar alerta";
+
+/*  */
+"Add_alert" = "Agregar alerta";
+
+/*  */
+"Delete_alert" = "Borrar alerta";
+
+/*  */
+"title_activity_glucose8_add_alert" = "Glucose8AddAlertActivity";
+
+/*  */
+"Enter_Email_address" = "Capture Email";
+
+/*  */
+"Choose_from_contacts" = "Elija de contactos";
+
+/*  */
+"action_done" = "Hecho";
+
+/*  */
+"title_activity_tutorial" = "Tutorial";
+
+/*  */
+"title_activity_tags" = "Etiquetas";
+
+/*  */
+"Welcome" = "Bienvenido";
+
+/*  */
+"Save" = "Guardar";
+
+/*  */
+"Tag_your_result" = "Etiqueta";
+
+/*  */
+"Export_history" = "Exportar historial";
+
+/*  */
+"hello_world" = "Hola mundo!";
+
+/*  */
+"action_settings" = "Configuración";
+
+/*  */
+"Before_breakfast" = "Antes del desayuno";
+
+/*  */
+"After_breakfast" = "Después del desayuno";
+
+/*  */
+"Before_lunch" = "Antes del almuerzo";
+
+/*  */
+"After_lunch" = "Después del almuerzo";
+
+/*  */
+"Before_dinner" = "Antes de la cena";
+
+/*  */
+"After_dinner" = "Después de la cena";
+
+/*  */
+"Before_snack" = "Antes de Aperitivo";
+
+/*  */
+"After_snack" = "Después de aperitivo";
+
+/*  */
+"Bedtime" = "Hora de dormir";
+
+/*  */
+"Midnight" = "Media noche";
+
+/*  */
+"Not_tagged" = "Sin etiqueta";
+
+/*  */
+"enter_note" = "Capturar nota";
+
+/*  */
+"add_some_note" = "Agregue una nota...";
+
+/*  */
+"Yesterday" = "Ayer";
+
+/*  */
+"Today" = "Hoy";
+
+/*  */
+"at" = "a las";
+
+/* according to the context "today at 13:50" or "december 13th 2016 at 14:30", can be translated as "hoy a las 13:50" or "13 de diciembre de 2016 a las 14:30" */
+"Battery_level_is_low_Please_replace_battery" = "Nivel de batería bajo, favor de remplazar la batería.";
+
+/*  */
+"Strip_is_damaged" = "Tira reactiva dañada";
+
+/*  */
+"Battery_is_damaged" = "Batería dañada";
+
+/*  */
+"Units" = "Unidades";
+
+/*  */
+"place_blood_drop" = "Coloque una gota de sangre en la tira reactiva";
+
+/*  */
+"action_next" = "Siguiente";
+
+/* An abbreviation of the word can be "Sig" */
+"action_prev" = "Anterior";
+
+/* An abbreviation of the word can be "Ant" */
+"Finish" = "Terminar";
+
+/*  */
+"Last_3_days" = "Últimos 3 dias";
+
+/*  */
+"Friends_score" = "Resultados de amigo";
+
+/*  */
+"Friends" = "Amigos";
+
+/*  */
+"Filtered" = "Filtrados";
+
+/*  */
+"Unfilter" = "Sin filtro";
+
+/*  */
+"Following" = "Siguiendo";
+
+/*  */
+"Followers" = "Seguidores";
+
+/*  */
+"Add" = "Agregar";
+
+/*  */
+"Delete" = "Borrar";
+
+/*  */
+"people_who_can_see_your_data" = "Personas que pueden ver tus datos";
+
+/*  */
+"please_entr_friend_email" = "Por favor capture el email de su amigo";
+
+/*  */
+"alerts_set" = "Fijar alertas";
+
+/*  */
+"Resend_confirmation" = "Re-enviar confirmación";
+
+/*  */
+"Please_enter_your_email" = "Por favor capture su email";
+
+/*  */
+"Please_confirm_your_email_and_login" = "Por favor confirme su email y login";
+
+/*  */
+"Confirmation_email_was_sent_to_you" = "Se le ha enviado un email de confirmación";
+
+/*  */
+"Welcome_aboard" = "Bienvenido abordo";
+
+/*  */
+"out_of" = "De";
+
+/* This can mean "de" to state is part of something (i.e. "made out of metal", "hecho de metal") or "acabaron" if you ran out of something (i.e. "I ran out of cookies", "se me acabaron las galletas") it depends on the context */
+"Out_of_x_friends" = "De %1$d amigos";
+
+/*  */
+"Basal" = "Basal";
+
+/*  */
+"Bolus_Morning" = "Bolus - Mañana";
+
+/*  */
+"Bolus_Noon" = "Bolus - Medio dia";
+
+/*  */
+"Bolus_Evening" = "Bolus - Tarde";
+
+/*  */
+"Pills" = "Pastillas";
+
+/*  */
+"Value" = "Valor";
+
+/*  */
+"Notes" = "Notas";
+
+/*  */
+"Set_time" = "Establecer hora";
+
+/* This can be "Establecer hora" if the hour is being set, or "Hora establecida" if what is shown is the set time already stablished */
+"Set" = "Establecer";
+
+/*  */
+"Enter_medicine_amount" = "Capture cantidad de medicamento";
+
+/*  */
+"Last_Measurement" = "Última medición";
+
+/*  */
+"Last_Injection" = "Última Inyección";
+
+/*  */
+"Snack" = "Aperitivo";
+
+/*  */
+"Night" = "Noche";
+
+/*  */
+"Set_food_amount" = "Establezca cantidad de comida";
+
+/*  */
+"Set_activity_amount" = "Establezca cantidad de ejercicio";
+
+/*  */
+"Last_activity" = "Última actividad";
+
+/*  */
+"Last_meal" = "Última comida";
+
+/*  */
+"Enter_your_weight" = "Capture su peso";
+
+/*  */
+"Last_weight" = "Último peso";
+
+/*  */
+"Small_meal" = "Comida pequeña";
+
+/*  */
+"Medium_meal" = "Comida mediana";
+
+/*  */
+"large_meal" = "Comida grande";
+
+/*  */
+"Easy_physical_activity" = "Actividad física sencilla";
+
+/*  */
+"Medium_physical_activity" = "Actividad física media";
+
+/*  */
+"Hard_physical_activity" = "Actividad física dificil";
+
+/*  */
+"cancel_q" = "¿Cancelar?";
+
+/*  */
+"Yes" = "Si";
+
+/*  */
+"No" = "No";
+
+/*  */
+"Please_enter_a_value" = "Por favor capture un valor";
+
+/*  */
+"Are_you_sure_this_is_the_value" = "¿Está seguro que es el valor?";
+
+/*  */
+"This_value_seems_unusual_Are_you_sure_it_is_correct" = "El valor parece ser inusual, ¿está seguro que es correcto?";
+
+/*  */
+"Filter" = "Filtrar";
+
+/*  */
+"Medicine" = "Medicina";
+
+/*  */
+"Food" = "Alimento";
+
+/*  */
+"Activity" = "Actividad";
+
+/*  */
+"Hide" = "Esconder";
+
+/*  */
+"Glucose_filter" = "Filtro de glucosa";
+
+/* This can be "Filtro de glucosa" if the data is going to be filtered by glucose or "Filtro por Glucosa" if the data has been already filtered by glucose */
+"empty_share_text" = "¿Se le están acabando las tiras reactivas?\n\n¿Desea compartir sus resultados con algún familiar o ser querido?\n\nEste es el lugar donde puede hacerlo.\n\nSeleccione el botón inferior y empiece a compartir.\n\nPorque compartir es querer.";
+
+/*  */
+"People" = "Personas";
+
+/*  */
+"Share" = "Compartir";
+
+/*  */
+"How_to_share" = "Como compartir";
+
+/*  */
+"share_with_whom" = "Compartir con:";
+
+/*  */
+"Phone_number" = "Teléfono";
+
+/*  */
+"Choose_contact" = "Elegir contacto";
+
+/*  */
+"Choose" = "Elegir";
+
+/*  */
+"Relationship" = "Relación";
+
+/*  */
+"Start_sharing" = "Comenzar a compartir";
+
+/*  */
+"Continue" = "Continuar";
+
+/*  */
+"Parent" = "Padre/Madre";
+
+/*  */
+"Spouse" = "Esposo(a)";
+
+/*  */
+"Caregiver" = "Cuidador(a)";
+
+/*  */
+"Child" = "Hijo(a)";
+
+/*  */
+"Physician" = "Médico";
+
+/*  */
+"Other" = "Otro";
+
+/*  */
+"Choose_relationship" = "Elegir realción";
+
+/*  */
+"Please_fill_all_fields" = "Por favor llene todos los campos";
+
+/*  */
+"Exit_app" = "¿Salir de la app?";
+
+/*  */
+"Date_is_in_the_future" = "La fecha está en el futuro";
+
+/*  */
+"Phone_is_invalid" = "Teléfono inválido";
+
+/*  */
+"title_activity_qrreader" = "Leer GlucoMe QR";
+
+/*  */
+"disconnect_from_clinic" = "Desconectar de la clínica";
+
+/*  */
+"connect_to_a_new_clinic" = "Conectar a una nueva clínica";
+
+/*  */
+"not_a_glucome_qr" = "No es un GlucoMe QR";
+
+/*  */
+"clinic_tap_to_scan" = "Clinica: Seleccione para escanear";
+
+/*  */
+"doctor" = "Doctor";
+
+/*  */
+"clinic" = "Clinica";
+
+/*  */
+"Exit" = "Salir";
+
+/*  */
+"Ok_i_will_restart" = "OK, voy a resetear";
+
+/*  */
+"Disconnect" = "Desconectar";
+
+/*  */
+"Are_you_sure_you_want_to_disconnect_from_this_clinic" = "¿Está seguro que quiere desconectarse de ésta clínica?";
+
+/*  */
+"I_am_sure" = "Estoy seguro";
+
+/*  */
+"Bolus_correction" = "Bolus - corrección";
+
+/*  */
+"Quit" = "Salir";
+
+/*  */
+"This_feature_must_have_camera_permission" = "Esta característica necesita tener permisos sobre la cámara";
+
+/*  */
+"Camera_permission" = "Permisos sobre la cámara";
+
+/*  */
+"Set_permission" = "Establecer permisos";
+
+/*  */
+"Storage_permission" = "Guardar permiso";
+
+/*  */
+"This_feature_must_have_external_storage_permission" = "Esta característica necesita permisos sobre guardado de datos";
+
+/*  */
+"Calendar_permission" = "Permisos sobre el calendario";
+
+/*  */
+"This_feature_must_have_calendar_permission" = "Esta característica necesita permisos sobre el calendario";
+
+/*  */
+"Phone" = "Teléfono";
+
+/*  */
+"SMS" = "SMS";
+
+/*  */
+"prediabetes" = "Prediabetes";
+
+/*  */
+"lada_1_5" = "LADA (1.5)";
+
+/*  */
+"mody" = "MODY";
+
+/*  */
+"immediately" = "Inmediatamente";
+
+/*  */
+"once_a_day" = "Una vez al día";
+
+/*  */
+"taking_blood_test" = "Tomando prueba de sangre";
+
+/*  */
+"how_to_use" = "Modo de uso:";
+
+/*  */
+"legal_info" = "Información legal:";
+
+/*  */
+"Dismiss" = "Cerrar";
+
+/*  */
+"need_more_help" = "¿Necesita mas ayuda?";
+
+/*  */
+"next" = "Siguiente";
+
+/* An abbreviation can be "Sig" */
+"prev" = "Anterior";
+
+/* An abbreviation can be "Ant" */
+"app_info" = "Información de la App";
+
+/* An abbreviation can be "Info App" */
+"Logout" = "Cerrar sesión";
+
+/*  */
+"reset" = "Reiniciar";
+
+/*  */
+"done" = "Hecho";
+
+/*  */
+"skip" = "Saltar";
+
+/*  */
+"add" = "Agregar";
+
+/*  */
+"update" = "Actualizar";
+
+/*  */
+"hypoglycemia" = "Hipoglicemia";
+
+/*  */
+"distribution" = "Distribución";
+
+/*  */
+"refreshing" = "Refrescando..";
+
+/*  */
+"all" = "Todo";
+
+/* This can be "Todo" if it mean something specific (i.e. "all the cake", "Todo el pastel") and "Todos" if it's more general (i.e. "all the children", "Todos los niños") */
+"pre_meal_target" = "Meta antes de comer";
+
+/*  */
+"post_meal_target" = "Meta después de comer";
+
+/*  */
+"pairing" = "Emparejando";
+
+/*  */
+"once_a_week" = "Una vez a la semana";
+
+/*  */
+"units" = "unidades";
+
+/*  */
+"weight" = "peso";
+
+/*  */
+"Audio_error_please_restart_app" = "Error de audio, por favor reinice la app";
+
+/*  */
+"This_feature_must_have_read_contacts_permission" = "Esta característica necesita permisos sobre los contactos";
+
+/*  */
+"Read_contacts_permission" = "Leer permisos en contactos";
+
+/*  */
+"Last_3_months" = "Últimos 3 meses";
+
+/*  */
+"Changes_were_not_saved_are_you_sure" = "No se han guardado los cambios, ¿está seguro?";
+
+/*  */
+"Discard_changes" = "Descartar cambios";
+
+/*  */
+"Next_treatment" = "Siguiente tratamiento";
+
+/*  */
+"remind_me_in_2_hours" = "Recordarme en 2 horas";
+
+/*  */
+"transition_result" = "transition_result";
+
+/*  */
+"end_user_license_agreement" = "Contrato de licencia de uso";
+
+/*  */
+"privacy_statement" = "Declaración de privacidad";
+
+/*  */
+"patient_id" = "ID del paciente";
+
+/*  */
+"save_and_inject" = "Salvar + inyectar";
+
+/*  */
+"We_aill_guide_you" = "Nosotros lo guiaremos";
+
+/*  */
+"how_to_use_the_device" = "como utilizar el aparato";
+
+/*  */
+"Lancing_device" = "Aparato de lanceta";
+
+/*  */
+"Press_Next_once" = "Presione siguiente cuando";
+
+/*  */
+"the_lancet_is_assambled" = "lesté lista la lanceta";
+
+/*  */
+"Take_the_cap_off" = "Retire la tapa";
+
+/*  */
+"the_cap_is_off" = "retire la tapa";
+
+/*  */
+"Insert_the_test_strip" = "Inserte una tira reactiva";
+
+/*  */
+"the_green_light_is_on" = "encienda la luz verde";
+
+/*  */
+"Prick_your_finger" = "Pinche su dedo";
+
+/*  */
+"Press_Next_once_you" = "Presione Siguiente una vez";
+
+/*  */
+"have_a_blood_drop_ready" = "tenga lista la gota de sangre";
+
+/*  */
+"Place_a_blood_drop" = "Deposite la gota de sangre";
+
+/*  */
+"Apply_to_the_edge_of_the_strip_and" = "Deposite en la orilla de la tira y";
+
+/*  */
+"wait_for_the_green_light_to_blink" = "espere que la luz verde parpadee";
+
+/*  */
+"Audio_permission" = "Permisos de audio";
+
+/*  */
+"The_app_uses_Audio_to_communicate_with_the_GlucoMe_blood_glucose_monitor" = "La app utiliza sonido para comunicarse con el monitor de glucosa en sangre GlucMe";
+
+/*  */
+"you_must_grant_audio_permission_in_order_to_use_this_app" = "Debe autorizar permisos de audio para poder utilizar la app";
+
+/*  */
+"Assemble_the_lancing_device" = "Arme el dispositivo de lanceta";
+
+/*  */
+"Remove_the_cap_by_rotating_the_cap_counter_clockwise" = "1. Remueva la tapa rotando la tapa hacia la izquierda.";
+
+/*  */
+"Insert_the_lancet_to_the_lancing_holder" = "2.a. Inserte la lanceta en el espacio designado.";
+
+/*  */
+"Remove_the_round_blue_tip_to_expose_the_needle" = "2.b. Remueva la punta redonda azul para exponer la aguja.";
+
+/*  */
+"Replace_the_cap_by_rotating_it_clockwise" = "3. Posicione la tapa rotandola hacia la derecha.";
+
+/*  */
+"Insert_a_test_strip" = "Inserte la tira reactiva";
+
+/*  */
+"Note_the_strip_golden_plates_and_the_device_black_arrow_are_on_the_same_side" = "1. Asegurese que las placas doradas de la tira reactiva y la flecha negra del dispositivo estén del mismo lado.";
+
+/*  */
+"Push_until_you_hear_a_beep" = "2. Empuje hasta escuchar un bip.";
+
+/*  */
+"Make_sure_the_green_light_is_on" = "3. Asegurese que la luz verde esté encendida.";
+
+/*  */
+"Adjust_the_lancing_device_between_one_to_five" = "1. Ajuste el dispositivo de lanceta entre uno y cinco.";
+
+/*  */
+"Cock_the_device_by_pulling_the_bottom_part" = "2. Arme el dispositivo jalando la parte inferior.";
+
+/*  */
+"Place_it_carefully_on_the_tip_of_your_finger" = "3. Pongalo cuidadosamente en la punta de su dedo.";
+
+/*  */
+"Press_the_trigger_button" = "4. Presione el botón de disparo.";
+
+/*  */
+"Squeeze_your_finger_for_three_seconds" = "5. Apriete su dedo por tres segundos.";
+
+/*  */
+"Make_sure_you_have_a_sufficient_blood_drop_ready_as_shown_in_the_picture" = "6. Asegurese de tener lista una gota de sangre suficientemente grande como se muestra en la imagen.";
+
+/*  */
+"do-not-smear-the-blood-on-the-golden-strip-place-it-close-to-the-edge-of-the-strip-and-let-the-blood" = "1. No manche la tira dorada con la gota de sangre. Ponga la gota cerca de la orilla de la tira reactiva y deje que fluya dentro de la tira.";
+
+/*  */
+"Make_sure_that_the_blood_flows_and_fills_the_entire_strip" = "2. Asegurese que la sangre fluya y llene toda la tira reactiva.";
+
+/*  */
+"Error" = "Error";
+
+/*  */
+"Make_sure_the_device_is_within_the_appropriate_temperature_range_see_manual" = "Asegurese que el aparato está dentro del rango de temperaturas apropiado (ver el manual)";
+
+/*  */
+"Do_not_use_the_same_test_strip_Please_use_a_new_one" = "No use la misma tira reactiva dos veces, por favor use una tira reactiva nueva.";
+
+/*  */
+"Dont_remove_the_strip_before_the_glucose_has_been_measured" = "No remueva la tira reactiva ántes de que se haya medido la glucosa.";
+
+/*  */
+"Please_measure_again_using_a_new_test_strip_Do_not_use_the_same_test_strip" = "Por favor mida nuevamente usando una nueva tira reactiva. No utilice la misma tira reactiva.";
+
+/*  */
+"If_the_error_reoccurs_please_replace_the_battery_of_the_device" = "Si el problema persiste, por favor reemplace la batería del aparato";
+
+/*  */
+"Gently_squeeze_your_fingertip_until_a_round_drop_of_blood_forms_on_your_fingertip" = "Apriete la punta de su dedo poco a poco hasta que se forme una gota de sangre redonda en la punta de su dedo.";
+
+/*  */
+"Apply_the_blood_drop_to_the_edge_of_the_strip_and_wait_for_the_green_light_to_blink" = "Aplique la gota de sangre en la punta de la tira reactiva y espere a que parpadee la luz verde.";
+
+/*  */
+"Make_sure_to_apply_blood_on_the_edge_of_the_half_circle" = "Asegurese de aplicar la gota de sangre en la orilla del medio círculo.";
+
+/*  */
+"Battery_is_about_to_drain_please_replace_the_battery" = "La batería está a punto de termiarse. Por favor reemplace la batería";
+
+/*  */
+"Remove_the_battery_cover" = "1. Remueva la tapa de la batería.";
+
+/*  */
+"Replace_the_battery" = "2. Reemplace la batería.";
+
+/*  */
+"Close_the_battery_cover" = "3. Cierre la tapa de la batería.";
+
+/*  */
+"Please_wait" = "Por favor espere";
+
+/*  */
+"Daily" = "Diario";
+
+/*  */
+"Weekly" = "Semanal";
+
+/*  */
+"Application_version" = "Versión de la aplicación:";
+
+/*  */
+"SDK_version" = "Versión de SDK:";
+
+/*  */
+"Given_at" = "Suministrado a las";
+
+/*  */
+"morning" = "mañana";
+
+/*  */
+"noon" = "medio dia";
+
+/*  */
+"afternoon" = "tarde";
+
+/*  */
+"evening" = "tarde";
+
+/*  */
+"night" = "noche";
+
+/*  */
+"Choose_diabetes_type" = "Elija el tipo de diabetes";
+
+/*  */
+"Gestational" = "Gestacional";
+
+/*  */
+"Prediabetes" = "Prediabetes";
+
+/*  */
+"Treatment_plan" = "Plan de tratamiento";
+
+/*  */
+"Treatment_diary" = "Diario de tratamiento";
+
+/*  */
+"After_test" = "Después de la prueba";
+
+/*  */
+"After_medication" = "Después de la medicina";
+
+/*  */
+"Hypoglycemia" = "Hipoglucemia";
+
+/*  */
+"Result_out_of_range" = "Resultado fuera de rango";
+
+/*  */
+"Amount_of_strips_left" = "Cantidad de tiras restantes";
+
+/*  */
+"Less_than" = "Menos de";
+
+/*  */
+"No_measurements" = "Sin mediciones";
+
+/*  */
+"A_communication_problem" = "Problema de comunicación. Por favor asegúrese de tener conexión a internet, que el email sea válido y que el password sea correcto";
+
+/*  */
+"A_new_GlucoMe_device_was_found_Would_you_like_to_register_it" = "Se encontró un nuevo glucómetro GlucoMe, ¿desea registrarlo?";
+
+/*  */
+"A_reminder_to" = "Un recordatorio a:";
+
+/*  */
+"Add_note" = "Agregar nota";
+
+/*  */
+"Approve" = "Aprobar";
+
+/*  */
+"Are_you_sure" = "¿Está seguro?";
+
+/*  */
+"Are_you_sure_you_want_to_join_this_clinic" = "¿Está seguro de querer ingresar a ésta clínica?";
+
+/*  */
+"Back" = "Atrás";
+
+/*  */
+"Close" = "Cerrar";
+
+/*  */
+"Correct" = "Correcto";
+
+/*  */
+"Deny" = "Rechazar";
+
+/*  */
+"Enter_value" = "Capture valor";
+
+/*  */
+"Export" = "Exportar";
+
+/*  */
+"Friday" = "Viernes";
+
+/*  */
+"Go_back" = "Regresar";
+
+/*  */
+"Grant_permission" = "Permitir";
+
+/*  */
+"Join" = "Ingresar";
+
+/*  */
+"Last_medicine" = "Último medicamento";
+
+/*  */
+"Manual_input" = "Ingreso manual";
+
+/*  */
+"Measure_glucose_level" = "Medir niveles de glucosa";
+
+/*  */
+"Microphone_permission_denied" = "Permiso de uso de micrófono denegado";
+
+/*  */
+"Monday" = "Lunes";
+
+/*  */
+"No_data_available" = "No hay datos disponibles";
+
+/*  */
+"No_email_is_defined_or_there_is_a_problem_sending_emails" = "No se ha definido un email o existe un problema para enviar correos";
+
+/*  */
+"No_treatment_available" = "No existen tratamientos";
+
+/*  */
+"Not_now" = "Ahora no";
+
+/*  */
+"Or" = "O";
+
+/*  */
+"Please_approve_the_privacy_policy" = "Por favor apruebe la política de privacidad";
+
+/*  */
+"Please_enter_your" = "Por favor capture su";
+
+/*  */
+"Privacy_policy" = "Política de privacidad";
+
+/*  */
+"Recurring_daily" = "Recurrencia diaria";
+
+/*  */
+"Reminder" = "Recordatorio";
+
+/*  */
+"Repeat" = "Repetir";
+
+/*  */
+"Replace_device_battery" = "Reemplace la batería del aparato";
+
+/*  */
+"Reset_password_successfully" = "Cambio de password satisfactorio";
+
+/*  */
+"Saturday" = "Sábado";
+
+/*  */
+"Sunday" = "Domingo";
+
+/*  */
+"The_app_must_have_microphone_permission_to_communicate_with_the_BGM" = "La app debe tener permisos de micrófono para comunicarse con el glucómetro";
+
+/*  */
+"Thursday" = "Jueves";
+
+/*  */
+"Timer" = "Temporizador";
+
+/*  */
+"Tuesday" = "Martes";
+
+/*  */
+"View" = "Vista";
+
+/*  */
+"Warning" = "Precaución";
+
+/*  */
+"Wednesday" = "Miércoles";
+
+/*  */
+"Would_you_like_to" = "Desea";
+
+/*  */
+"You_can_share_data_with_others" = "Puede compartir datos con otras personas";
+
+/*  */
+"and" = "y";
+
+/*  */
+"e_g_Morning_reminder" = "p.ej. recordatorio matutino";
+
+/*  */
+"mg_dl" = "mg/dl";
+
+/*  */
+"mmol_L" = "mmol/L";
